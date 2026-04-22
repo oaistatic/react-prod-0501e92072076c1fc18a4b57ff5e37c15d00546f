@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`P(A \\cap B)`,`P(A \\cap B) = \\frac{1}{52}`,`P(A\\cap B)=P(B\\mid A)P(A)`,`P(A\\cap B)=P(A)P(B\\mid A)`]}))();export{t as default};
+//# sourceMappingURL=ad2f6f75-bh1hbrzjo9zvz8lr.js.map

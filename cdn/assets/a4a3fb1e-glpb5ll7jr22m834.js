@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{et as t}from"./2340486e-epv5pa20wdn92ya5.js";import{L9 as n,R9 as r}from"./4813494d-7wk99m1ly4swd636.js";import{OF as i,kF as a}from"./1a7ebd5f-epb8sg6kzenggoha.js";function o({className:e,checked:t}){return(0,s.jsx)(i,{className:n(`icon-sm transform transition-transform duration-200`,e,t?`rotate-0`:`ltr:-rotate-90 rtl:rotate-90`)})}var s,c=e((()=>{a(),r(),s=t()}));export{c as n,o as t};
+//# sourceMappingURL=a4a3fb1e-glpb5ll7jr22m834.js.map

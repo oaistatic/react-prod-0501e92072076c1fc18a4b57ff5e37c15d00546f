@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\frac{dy}{dx} = -\\frac{x}{y}`,`y' + 2y = x`,`\\frac{dy}{dx} + y = 0`]}))();export{t as default};
+//# sourceMappingURL=59806586-fph22bdaz72mjx7a.js.map

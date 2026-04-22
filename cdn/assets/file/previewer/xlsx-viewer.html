@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>Spreadsheet Preview</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family:
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background: #ffffff;
+        color: #0f172a;
+      }
+
+      body {
+        overflow: hidden;
+      }
+
+      .shell {
+        display: flex;
+        height: 100%;
+        width: 100%;
+        flex-direction: column;
+      }
+
+      .hidden {
+        display: none !important;
+      }
+
+      .loading,
+      .error {
+        display: flex;
+        height: 100%;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+      }
+
+      .spinner {
+        height: 28px;
+        width: 28px;
+        border: 3px solid rgba(15, 23, 42, 0.12);
+        border-top-color: rgba(15, 23, 42, 0.72);
+        border-radius: 999px;
+        animation: spin 0.8s linear infinite;
+      }
+
+      .error-card {
+        display: flex;
+        max-width: 420px;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+        text-align: center;
+      }
+
+      .error-message {
+        margin: 0;
+        font-size: 14px;
+        line-height: 20px;
+      }
+
+      .retry-button {
+        border: 1px solid rgba(15, 23, 42, 0.12);
+        border-radius: 999px;
+        background: #ffffff;
+        color: #0f172a;
+        cursor: pointer;
+        font: inherit;
+        padding: 8px 16px;
+      }
+
+      .viewer {
+        flex: 1;
+        min-height: 0;
+        overflow-x: auto;
+        overflow-y: auto;
+      }
+
+      .viewer-content {
+        margin: 0 auto;
+        display: flex;
+        min-height: 100%;
+        width: 100%;
+        max-width: 1600px;
+        flex-direction: column;
+        gap: 12px;
+        padding: 12px 12px 104px;
+      }
+
+      .workbook-card {
+        display: flex;
+        min-height: 0;
+        flex: 1;
+        flex-direction: column;
+        overflow: hidden;
+        border: 1px solid rgba(15, 23, 42, 0.12);
+        border-radius: 16px;
+        background: #ffffff;
+        box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08);
+      }
+
+      .workbook-card-header {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        border-bottom: 1px solid rgba(15, 23, 42, 0.12);
+        background: #f8fafc;
+        padding: 12px 16px;
+      }
+
+      .sheet-tabs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .sheet-tab {
+        border: 1px solid rgba(15, 23, 42, 0.12);
+        border-radius: 999px;
+        background: #ffffff;
+        color: #334155;
+        cursor: pointer;
+        font: inherit;
+        font-size: 12px;
+        font-weight: 600;
+        padding: 6px 12px;
+      }
+
+      .sheet-tab-active {
+        border-color: rgba(15, 23, 42, 0.24);
+        background: #e2e8f0;
+        color: #0f172a;
+      }
+
+      .sheet-note,
+      .workbook-note {
+        margin: 0;
+        color: #475569;
+        font-size: 12px;
+        line-height: 18px;
+      }
+
+      .table-wrapper {
+        flex: 1;
+        min-height: 0;
+        overflow: auto;
+        background: #ffffff;
+      }
+
+      .sheet-table {
+        width: max-content;
+        min-width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+      }
+
+      .sheet-table th,
+      .sheet-table td {
+        min-width: 120px;
+        max-width: 280px;
+        border-right: 1px solid rgba(15, 23, 42, 0.08);
+        border-bottom: 1px solid rgba(15, 23, 42, 0.08);
+        padding: 10px 12px;
+        font-size: 13px;
+        line-height: 18px;
+        text-align: left;
+        vertical-align: top;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+
+      .sheet-table thead th {
+        position: sticky;
+        top: 0;
+        z-index: 2;
+        background: #f8fafc;
+      }
+
+      .sheet-table .row-header {
+        min-width: 56px;
+        max-width: 56px;
+        background: #f8fafc;
+        color: #475569;
+        text-align: right;
+      }
+
+      .sheet-table .sticky-cell {
+        position: sticky;
+        left: 0;
+        z-index: 1;
+      }
+
+      .sheet-table thead .sticky-cell {
+        z-index: 3;
+      }
+
+      .empty-state {
+        display: flex;
+        min-height: 240px;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        color: #475569;
+        font-size: 14px;
+        text-align: center;
+      }
+
+      @media (min-width: 640px) {
+        .viewer-content {
+          gap: 16px;
+          padding: 24px 24px 124px;
+        }
+
+        .workbook-card-header {
+          padding: 16px 20px;
+        }
+      }
+
+      @keyframes spin {
+        from {
+          transform: rotate(0deg);
+        }
+
+        to {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <div id="loading" class="loading">
+        <div class="spinner" aria-label="Loading"></div>
+      </div>
+      <div id="error" class="error hidden">
+        <div class="error-card">
+          <p id="error-message" class="error-message"></p>
+          <button id="retry-button" class="retry-button hidden" type="button">
+            Retry
+          </button>
+        </div>
+      </div>
+      <div id="viewer" class="viewer hidden">
+        <div class="viewer-content">
+          <div class="workbook-card">
+            <div id="workbook-card-header" class="workbook-card-header hidden">
+              <div id="tabs" class="sheet-tabs hidden"></div>
+              <p id="sheet-note" class="sheet-note hidden"></p>
+            </div>
+            <div id="table-wrapper" class="table-wrapper"></div>
+          </div>
+          <p id="workbook-note" class="workbook-note hidden"></p>
+        </div>
+      </div>
+    </div>
+    <script>
+      (() => {
+        const loadingEl = document.getElementById("loading");
+        const errorEl = document.getElementById("error");
+        const errorMessageEl = document.getElementById("error-message");
+
+        function showBootstrapError() {
+          if (!loadingEl || !errorEl || !errorMessageEl) {
+            return;
+          }
+          errorMessageEl.textContent = "Unable to load the file preview.";
+          loadingEl.classList.add("hidden");
+          errorEl.classList.remove("hidden");
+        }
+
+        function shouldLoadScriptWithCors() {
+          try {
+            const { hostname } = new URL(window.location.href);
+            return (
+              hostname === "localhost" ||
+              hostname === "127.0.0.1" ||
+              hostname.endsWith(".localhost")
+            );
+          } catch {
+            return false;
+          }
+        }
+
+        function loadScript(src) {
+          return new Promise((resolve, reject) => {
+            const script = document.createElement("script");
+            if (shouldLoadScriptWithCors()) {
+              // Sandboxed previewer iframes use an opaque ("null") origin on
+              // localhost-style dev hosts. Vite requires classic script
+              // requests from that context to opt into CORS mode.
+              script.crossOrigin = "anonymous";
+            }
+            script.src = src;
+            script.onload = () => resolve();
+            script.onerror = () => reject(new Error(`Failed to load ${src}`));
+            document.body.appendChild(script);
+          });
+        }
+
+        async function loadPreviewerBundle() {
+          try {
+            await loadScript("./xlsx-viewer.js");
+          } catch {
+            showBootstrapError();
+          }
+        }
+
+        void loadPreviewerBundle();
+      })();
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f04d254b8f2c8d2',t:'MTc3Njg2MjkzMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

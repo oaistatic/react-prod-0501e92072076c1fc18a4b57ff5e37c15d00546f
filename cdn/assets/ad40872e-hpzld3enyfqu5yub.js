@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`Estimate \\int_{0}^{5} x \\, dx using Simpson's rule with n = 8`,`Estimate \\int_{0}^{5} x^2 \\, dx using Simpson's rule with n = 8`,`Estimate \\int_{0}^{5} \\sqrt{x} \\, dx using Simpson's rule with n = 8`,`Approximate \\int_{0}^{5} x^2 \\, dx with Simpson's rule using 6 subintervals`]}))();export{t as default};
+//# sourceMappingURL=ad40872e-hpzld3enyfqu5yub.js.map

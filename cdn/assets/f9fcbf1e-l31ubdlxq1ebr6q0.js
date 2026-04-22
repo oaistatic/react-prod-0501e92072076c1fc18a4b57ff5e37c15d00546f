@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`AppWindow`,[[`rect`,{x:`2`,y:`4`,width:`20`,height:`16`,rx:`2`,key:`izxlao`}],[`path`,{d:`M10 4v4`,key:`pp8u80`}],[`path`,{d:`M2 8h20`,key:`d11cs7`}],[`path`,{d:`M6 4v4`,key:`1svtjw`}]])}));export{i as n,r as t};
+//# sourceMappingURL=f9fcbf1e-l31ubdlxq1ebr6q0.js.map

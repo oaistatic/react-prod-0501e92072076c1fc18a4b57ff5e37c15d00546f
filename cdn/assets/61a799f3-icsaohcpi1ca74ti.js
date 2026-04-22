@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ReceiptIndianRupee`,[[`path`,{d:`M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z`,key:`q3az6g`}],[`path`,{d:`M8 7h8`,key:`i86dvs`}],[`path`,{d:`M12 17.5 8 15h1a4 4 0 0 0 0-8`,key:`grpkl4`}],[`path`,{d:`M8 11h8`,key:`vwpz6n`}]])}));export{i as n,r as t};
+//# sourceMappingURL=61a799f3-icsaohcpi1ca74ti.js.map

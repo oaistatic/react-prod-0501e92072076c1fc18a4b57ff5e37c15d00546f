@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`LampCeiling`,[[`path`,{d:`M12 2v5`,key:`nd4vlx`}],[`path`,{d:`M6 7h12l4 9H2l4-9Z`,key:`123d64`}],[`path`,{d:`M9.17 16a3 3 0 1 0 5.66 0`,key:`1061mw`}]])}));export{i as n,r as t};
+//# sourceMappingURL=2be17ec0-ofzvmok1zgs8p5g7.js.map

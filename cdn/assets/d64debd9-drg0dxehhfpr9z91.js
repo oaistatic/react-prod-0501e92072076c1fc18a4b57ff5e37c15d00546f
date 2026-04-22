@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`School`,[[`path`,{d:`M14 22v-4a2 2 0 1 0-4 0v4`,key:`hhkicm`}],[`path`,{d:`m18 10 4 2v8a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2v-8l4-2`,key:`1vwozw`}],[`path`,{d:`M18 5v17`,key:`1sw6gf`}],[`path`,{d:`m4 6 8-4 8 4`,key:`1q0ilc`}],[`path`,{d:`M6 5v17`,key:`1xfsm0`}],[`circle`,{cx:`12`,cy:`9`,r:`2`,key:`1092wv`}]])}));export{i as n,r as t};
+//# sourceMappingURL=d64debd9-drg0dxehhfpr9z91.js.map

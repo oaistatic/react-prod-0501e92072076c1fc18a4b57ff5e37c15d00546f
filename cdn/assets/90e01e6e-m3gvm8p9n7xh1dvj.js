@@ -1,0 +1,1 @@
+import{Qi as e,Xi as t}from"./1a7ebd5f-epb8sg6kzenggoha.js";e();export{t as TatertotNuxModal};

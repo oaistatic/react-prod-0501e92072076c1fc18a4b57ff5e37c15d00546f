@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ListVideo`,[[`path`,{d:`M12 12H3`,key:`18klou`}],[`path`,{d:`M16 6H3`,key:`1wxfjs`}],[`path`,{d:`M12 18H3`,key:`11ftsu`}],[`path`,{d:`m16 12 5 3-5 3v-6Z`,key:`zpskkp`}]])}));export{i as n,r as t};
+//# sourceMappingURL=a968695c-h30e0t6iyx5tmyr6.js.map

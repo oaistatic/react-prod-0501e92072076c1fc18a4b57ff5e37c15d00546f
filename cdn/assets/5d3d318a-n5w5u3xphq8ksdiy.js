@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Forklift`,[[`path`,{d:`M12 12H5a2 2 0 0 0-2 2v5`,key:`7zsz91`}],[`circle`,{cx:`13`,cy:`19`,r:`2`,key:`wjnkru`}],[`circle`,{cx:`5`,cy:`19`,r:`2`,key:`v8kfzx`}],[`path`,{d:`M8 19h3m5-17v17h6M6 12V7c0-1.1.9-2 2-2h3l5 5`,key:`13bk1p`}]])}));export{i as n,r as t};
+//# sourceMappingURL=5d3d318a-n5w5u3xphq8ksdiy.js.map

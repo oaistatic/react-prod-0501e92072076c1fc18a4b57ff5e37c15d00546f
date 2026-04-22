@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Eraser`,[[`path`,{d:`m7 21-4.3-4.3c-1-1-1-2.5 0-3.4l9.6-9.6c1-1 2.5-1 3.4 0l5.6 5.6c1 1 1 2.5 0 3.4L13 21`,key:`182aya`}],[`path`,{d:`M22 21H7`,key:`t4ddhn`}],[`path`,{d:`m5 11 9 9`,key:`1mo9qw`}]])}));export{i as n,r as t};
+//# sourceMappingURL=9010072f-odd2c05rpmkzj981.js.map

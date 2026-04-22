@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Pi`,[[`line`,{x1:`9`,x2:`9`,y1:`4`,y2:`20`,key:`ovs5a5`}],[`path`,{d:`M4 7c0-1.7 1.3-3 3-3h13`,key:`10pag4`}],[`path`,{d:`M18 20c-1.7 0-3-1.3-3-3V4`,key:`1gaosr`}]])}));export{i as n,r as t};
+//# sourceMappingURL=85b42e17-dqalzfv3g21ejkcl.js.map

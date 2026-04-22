@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`LetterText`,[[`path`,{d:`M15 12h6`,key:`upa0zy`}],[`path`,{d:`M15 6h6`,key:`1jlkvy`}],[`path`,{d:`m3 13 3.553-7.724a.5.5 0 0 1 .894 0L11 13`,key:`blevx4`}],[`path`,{d:`M3 18h18`,key:`1h113x`}],[`path`,{d:`M4 11h6`,key:`olkgv1`}]])}));export{i as n,r as t};
+//# sourceMappingURL=b31453d4-hex6m6wt44oae8ba.js.map

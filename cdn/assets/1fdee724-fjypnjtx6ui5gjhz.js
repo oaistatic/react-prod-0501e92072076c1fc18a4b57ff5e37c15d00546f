@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`PanelTopDashed`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M14 9h1`,key:`l0svgy`}],[`path`,{d:`M19 9h2`,key:`te2zfg`}],[`path`,{d:`M3 9h2`,key:`1h4ldw`}],[`path`,{d:`M9 9h1`,key:`15jzuz`}]])}));export{i as n,r as t};
+//# sourceMappingURL=1fdee724-fjypnjtx6ui5gjhz.js.map

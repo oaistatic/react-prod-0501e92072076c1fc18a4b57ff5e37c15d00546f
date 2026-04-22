@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FileClock`,[[`path`,{d:`M16 22h2a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v3`,key:`37hlfg`}],[`path`,{d:`M14 2v4a2 2 0 0 0 2 2h4`,key:`tnqrlb`}],[`circle`,{cx:`8`,cy:`16`,r:`6`,key:`10v15b`}],[`path`,{d:`M9.5 17.5 8 16.25V14`,key:`1o80t2`}]])}));export{i as n,r as t};
+//# sourceMappingURL=70c8943b-j70xgjg6kimqzx3b.js.map

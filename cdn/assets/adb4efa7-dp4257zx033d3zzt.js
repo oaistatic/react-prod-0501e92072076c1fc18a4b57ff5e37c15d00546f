@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\theta = \\arcsin(y)`,`\\theta = \\arccos(x)`,`\\theta = \\arctan(y/x)`]}))();export{t as default};
+//# sourceMappingURL=adb4efa7-dp4257zx033d3zzt.js.map

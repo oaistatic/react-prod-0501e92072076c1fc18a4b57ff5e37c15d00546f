@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MessageSquareShare`,[[`path`,{d:`M21 12v3a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h7`,key:`tqtdkg`}],[`path`,{d:`M16 3h5v5`,key:`1806ms`}],[`path`,{d:`m16 8 5-5`,key:`15mbrl`}]])}));export{i as n,r as t};
+//# sourceMappingURL=cd080318-fcca3ihb5j4qn7m4.js.map

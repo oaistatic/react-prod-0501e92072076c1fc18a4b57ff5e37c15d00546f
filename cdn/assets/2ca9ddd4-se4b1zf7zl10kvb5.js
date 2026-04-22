@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MessageSquareWarning`,[[`path`,{d:`M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z`,key:`1lielz`}],[`path`,{d:`M12 7v2`,key:`stiyo7`}],[`path`,{d:`M12 13h.01`,key:`y0uutt`}]])}));export{i as n,r as t};
+//# sourceMappingURL=2ca9ddd4-se4b1zf7zl10kvb5.js.map

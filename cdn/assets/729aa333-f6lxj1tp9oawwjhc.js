@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SkipForward`,[[`polygon`,{points:`5 4 15 12 5 20 5 4`,key:`16p6eg`}],[`line`,{x1:`19`,x2:`19`,y1:`5`,y2:`19`,key:`futhcm`}]])}));export{i as n,r as t};
+//# sourceMappingURL=729aa333-f6lxj1tp9oawwjhc.js.map

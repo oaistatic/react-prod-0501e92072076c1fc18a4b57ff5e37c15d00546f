@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,r as n,t as r}from"./7943ab25-9nosqsp2iv7nrq33.js";var i=e((async()=>{await r()}));await e((async()=>{await i()}))();export{t as default,n as shouldRevalidate};
+//# sourceMappingURL=internal.apps_._country._index-hvzw7fn3.js.map

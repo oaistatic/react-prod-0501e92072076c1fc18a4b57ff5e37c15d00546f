@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FlaskConical`,[[`path`,{d:`M10 2v7.527a2 2 0 0 1-.211.896L4.72 20.55a1 1 0 0 0 .9 1.45h12.76a1 1 0 0 0 .9-1.45l-5.069-10.127A2 2 0 0 1 14 9.527V2`,key:`pzvekw`}],[`path`,{d:`M8.5 2h7`,key:`csnxdl`}],[`path`,{d:`M7 16h10`,key:`wp8him`}]])}));export{i as n,r as t};
+//# sourceMappingURL=94841b75-m1rwbp2kn6j3mm9i.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ToggleLeft`,[[`rect`,{width:`20`,height:`12`,x:`2`,y:`6`,rx:`6`,ry:`6`,key:`f2vt7d`}],[`circle`,{cx:`8`,cy:`12`,r:`2`,key:`1nvbw3`}]])}));export{i as n,r as t};
+//# sourceMappingURL=f69c6a03-m9w3lz3x9b2aki2j.js.map

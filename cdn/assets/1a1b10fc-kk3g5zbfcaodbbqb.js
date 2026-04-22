@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SendHorizontal`,[[`path`,{d:`M3.714 3.048a.498.498 0 0 0-.683.627l2.843 7.627a2 2 0 0 1 0 1.396l-2.842 7.627a.498.498 0 0 0 .682.627l18-8.5a.5.5 0 0 0 0-.904z`,key:`117uat`}],[`path`,{d:`M6 12h16`,key:`s4cdu5`}]])}));export{i as n,r as t};
+//# sourceMappingURL=1a1b10fc-kk3g5zbfcaodbbqb.js.map

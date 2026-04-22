@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`RadioReceiver`,[[`path`,{d:`M5 16v2`,key:`g5qcv5`}],[`path`,{d:`M19 16v2`,key:`1gbaio`}],[`rect`,{width:`20`,height:`8`,x:`2`,y:`8`,rx:`2`,key:`vjsjur`}],[`path`,{d:`M18 12h.01`,key:`yjnet6`}]])}));export{i as n,r as t};
+//# sourceMappingURL=48df51dd-l5tu9ny5a7sgfvwq.js.map

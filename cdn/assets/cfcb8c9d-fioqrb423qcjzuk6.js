@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";function t(e){let t=e.split(/[?#]/,1)[0]??e;return e.startsWith(`/`)&&!e.startsWith(`//`)&&!t.includes(`\\`)&&!/%5c/i.test(t)}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=cfcb8c9d-fioqrb423qcjzuk6.js.map

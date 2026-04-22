@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{et as t,on as n}from"./2340486e-epv5pa20wdn92ya5.js";import{OL as r,RL as i,kL as a,zL as o}from"./4813494d-7wk99m1ly4swd636.js";import{r as s,t as c}from"./efed80bb-kbehuwrpotyebn6m.js";function l(e){let t=r();if(!t)return null;switch(t){case i.ALPHA:case i.SB_1B9A6CB4:return(0,u.jsx)(c,{...e});case i.DOGFOODING:return null}}var u;e((()=>{a(),s(),o(),n(),u=t()}))();export{l as CAFeedbackModal};
+//# sourceMappingURL=ccdb9715-peuauw4kk4i2yv1b.js.map

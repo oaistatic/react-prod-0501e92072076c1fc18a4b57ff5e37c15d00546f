@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`s = ut + \\frac{1}{2}at^2`,`\\Delta x = v_0 t + \\frac{1}{2} a t^2`]}))();export{t as default};
+//# sourceMappingURL=f7125142-hxip47rezx7vm5uk.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ScreenShare`,[[`path`,{d:`M13 3H4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-3`,key:`i8wdob`}],[`path`,{d:`M8 21h8`,key:`1ev6f3`}],[`path`,{d:`M12 17v4`,key:`1riwvh`}],[`path`,{d:`m17 8 5-5`,key:`fqif7o`}],[`path`,{d:`M17 3h5v5`,key:`1o3tu8`}]])}));export{i as n,r as t};
+//# sourceMappingURL=189e986c-ft6g5gz57v716md6.js.map

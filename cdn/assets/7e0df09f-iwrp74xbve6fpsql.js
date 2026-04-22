@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`A = \\sqrt{s(s-a)(s-b)(s-c)}`,`A=\\sqrt{s(s-a)(s-b)(s-c)},\\ s=\\frac{a+b+c}{2}`,`\\text{Area}=\\sqrt{s(s-a)(s-b)(s-c)}`]}))();export{t as default};
+//# sourceMappingURL=7e0df09f-iwrp74xbve6fpsql.js.map

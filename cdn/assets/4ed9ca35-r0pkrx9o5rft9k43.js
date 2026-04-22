@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ArrowBigLeftDash`,[[`path`,{d:`M19 15V9`,key:`1hci5f`}],[`path`,{d:`M15 15h-3v4l-7-7 7-7v4h3v6z`,key:`16tjna`}]])}));export{i as n,r as t};
+//# sourceMappingURL=4ed9ca35-r0pkrx9o5rft9k43.js.map

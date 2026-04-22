@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CalendarRange`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`4`,rx:`2`,key:`1hopcy`}],[`path`,{d:`M16 2v4`,key:`4m81vk`}],[`path`,{d:`M3 10h18`,key:`8toen8`}],[`path`,{d:`M8 2v4`,key:`1cmpym`}],[`path`,{d:`M17 14h-6`,key:`bkmgh3`}],[`path`,{d:`M13 18H7`,key:`bb0bb7`}],[`path`,{d:`M7 14h.01`,key:`1qa3f1`}],[`path`,{d:`M17 18h.01`,key:`1bdyru`}]])}));export{i as n,r as t};
+//# sourceMappingURL=51d3d3e6-jak0p39r4452m5a3.js.map

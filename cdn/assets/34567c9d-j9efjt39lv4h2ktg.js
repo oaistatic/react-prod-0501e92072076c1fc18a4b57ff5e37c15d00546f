@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\Delta G = \\Delta H - T\\Delta S`,`\\Delta G = -RT \\ln K`]}))();export{t as default};
+//# sourceMappingURL=34567c9d-j9efjt39lv4h2ktg.js.map

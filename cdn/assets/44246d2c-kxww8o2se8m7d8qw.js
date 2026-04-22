@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{gct as t,lct as n}from"./4813494d-7wk99m1ly4swd636.js";import{n as r,r as i}from"./8d846022-bak11mbw7kn4iodt.js";var a,o,s,c=e((()=>{n(),i(),a=`text-sm font-medium`,o=`rounded-[24px]`,s=(e,n,i,a)=>t()&&n?{top:0,right:0,bottom:0,left:0}:i?e===r.EMAIL?a?{top:4,right:10,bottom:n?32:4,left:5}:{top:4,right:2,bottom:n?32:4,left:5}:n?{top:12,right:14,bottom:32,left:14}:{top:4,right:5,bottom:4,left:5}:{top:3,right:3,bottom:3,left:4}}));export{c as i,a as n,s as r,o as t};
+//# sourceMappingURL=44246d2c-kxww8o2se8m7d8qw.js.map

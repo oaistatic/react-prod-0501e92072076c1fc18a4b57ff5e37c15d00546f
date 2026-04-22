@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FileAxis3d`,[[`path`,{d:`M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z`,key:`1rqfz7`}],[`path`,{d:`M14 2v4a2 2 0 0 0 2 2h4`,key:`tnqrlb`}],[`path`,{d:`m8 18 4-4`,key:`12zab0`}],[`path`,{d:`M8 10v8h8`,key:`tlaukw`}]])}));export{i as n,r as t};
+//# sourceMappingURL=e59d7e04-c4xnyz66xtprxmof.js.map

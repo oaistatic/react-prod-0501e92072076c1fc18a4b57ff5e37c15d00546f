@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`HandHelping`,[[`path`,{d:`M11 12h2a2 2 0 1 0 0-4h-3c-.6 0-1.1.2-1.4.6L3 14`,key:`1j4xps`}],[`path`,{d:`m7 18 1.6-1.4c.3-.4.8-.6 1.4-.6h4c1.1 0 2.1-.4 2.8-1.2l4.6-4.4a2 2 0 0 0-2.75-2.91l-4.2 3.9`,key:`uospg8`}],[`path`,{d:`m2 13 6 6`,key:`16e5sb`}]])}));export{i as n,r as t};
+//# sourceMappingURL=69b640dc-b7q18xgadhbyd5nz.js.map

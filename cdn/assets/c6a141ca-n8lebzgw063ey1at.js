@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`A = \\frac{1}{2} b h`,`a=1/2bh`,`a=bh/2`,`1/2bh=a`,`bh/2=a`,`1/2bh`]}))();export{t as default};
+//# sourceMappingURL=c6a141ca-n8lebzgw063ey1at.js.map

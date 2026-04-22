@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\text{Area} = \\frac{a+b}{2} \\times h`,`\\text{Area} = \\frac{(a+b)h}{2}`,`A = \\frac{a+b}{2}h`,`A = \\frac{1}{2}(b_1 + b_2)h`,`\\frac{a+b}{2}h = A`,`\\frac{(a+b)h}{2} = A`,`\\frac{a+b}{2}h`,`area of a trapezoid`,`trapezoid area`]}))();export{t as default};
+//# sourceMappingURL=159a92d0-esxu4av1fbtibyuu.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{_6 as t,m6 as n}from"./4813494d-7wk99m1ly4swd636.js";function r(e){return e.replace(i,(e,t)=>a.test(t)?`](${`<${t}>`})`:e)}var i,a,o=e((()=>{t(),i=new RegExp(String.raw`\]\((?!<)(${n}[^)\r\n]+?)\)`,`g`),a=/\s/}));export{r as n,o as t};
+//# sourceMappingURL=c0a6f1bf-fq7es5xxwoy2e56x.js.map

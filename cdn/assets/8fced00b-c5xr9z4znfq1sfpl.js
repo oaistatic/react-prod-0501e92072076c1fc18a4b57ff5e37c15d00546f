@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Rainbow`,[[`path`,{d:`M22 17a10 10 0 0 0-20 0`,key:`ozegv`}],[`path`,{d:`M6 17a6 6 0 0 1 12 0`,key:`5giftw`}],[`path`,{d:`M10 17a2 2 0 0 1 4 0`,key:`gnsikk`}]])}));export{i as n,r as t};
+//# sourceMappingURL=8fced00b-c5xr9z4znfq1sfpl.js.map

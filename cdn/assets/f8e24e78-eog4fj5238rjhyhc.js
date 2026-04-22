@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{et as t}from"./2340486e-epv5pa20wdn92ya5.js";import{i as n,n as r,t as i}from"./4726db99-h48hbqjb2tkn765v.js";var a,o,s;e((()=>{n(),a=t(),o=e=>(0,a.jsx)(i,{...e,variant:`obtuse`}),s=e=>(0,a.jsx)(r,{...e,variant:`obtuse`})}))();export{o as ObtuseTriangleControls,s as ObtuseTriangleVisualization};
+//# sourceMappingURL=f8e24e78-eog4fj5238rjhyhc.js.map

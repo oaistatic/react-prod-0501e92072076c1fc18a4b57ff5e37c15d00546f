@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ChartNoAxesColumnDecreasing`,[[`path`,{d:`M12 20V10`,key:`g8npz5`}],[`path`,{d:`M18 20v-4`,key:`8uic4z`}],[`path`,{d:`M6 20V4`,key:`1w1bmo`}]])}));export{i as n,r as t};
+//# sourceMappingURL=fea3e578-eqwx44bax91gk82g.js.map

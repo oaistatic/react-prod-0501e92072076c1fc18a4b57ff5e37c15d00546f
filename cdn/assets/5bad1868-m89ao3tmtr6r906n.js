@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CornerUpRight`,[[`polyline`,{points:`15 14 20 9 15 4`,key:`1tbx3s`}],[`path`,{d:`M4 20v-7a4 4 0 0 1 4-4h12`,key:`1lu4f8`}]])}));export{i as n,r as t};
+//# sourceMappingURL=5bad1868-m89ao3tmtr6r906n.js.map

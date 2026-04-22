@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`VideoOff`,[[`path`,{d:`M10.66 6H14a2 2 0 0 1 2 2v2.5l5.248-3.062A.5.5 0 0 1 22 7.87v8.196`,key:`w8jjjt`}],[`path`,{d:`M16 16a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h2`,key:`1xawa7`}],[`path`,{d:`m2 2 20 20`,key:`1ooewy`}]])}));export{i as n,r as t};
+//# sourceMappingURL=93965f76-cn6omrq7f8x2g49a.js.map

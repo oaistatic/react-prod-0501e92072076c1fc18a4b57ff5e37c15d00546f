@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FileScan`,[[`path`,{d:`M20 10V7l-5-5H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4`,key:`1rdf37`}],[`path`,{d:`M14 2v4a2 2 0 0 0 2 2h4`,key:`tnqrlb`}],[`path`,{d:`M16 14a2 2 0 0 0-2 2`,key:`ceaadl`}],[`path`,{d:`M20 14a2 2 0 0 1 2 2`,key:`1ny6zw`}],[`path`,{d:`M20 22a2 2 0 0 0 2-2`,key:`1l9q4k`}],[`path`,{d:`M16 22a2 2 0 0 1-2-2`,key:`1wqh5n`}]])}));export{i as n,r as t};
+//# sourceMappingURL=a2f424e5-obe7ysvtdz2hf05e.js.map

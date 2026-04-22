@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`a = g\\sin\\theta`,`a = g(\\sin\\theta - \\mu\\cos\\theta)`]}))();export{t as default};
+//# sourceMappingURL=bb690d15-muek5s6mvfvamd3c.js.map

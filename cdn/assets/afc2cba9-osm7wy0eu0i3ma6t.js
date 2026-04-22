@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`PV = nRT`,`P = nRT / V`,`P = \\frac{nRT}{V}`,`V = nRT / P`,`V = \\frac{nRT}{P}`,`n = PV / RT`,`n = \\frac{PV}{RT}`,`T = PV / nR`,`T = \\frac{PV}{nR}`,`R = PV / nT`,`R = \\frac{PV}{nT}`]}))();export{t as default};
+//# sourceMappingURL=afc2cba9-osm7wy0eu0i3ma6t.js.map

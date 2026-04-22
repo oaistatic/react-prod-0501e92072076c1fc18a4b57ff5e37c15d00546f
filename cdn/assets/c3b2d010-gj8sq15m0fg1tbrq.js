@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ChartColumnBig`,[[`path`,{d:`M3 3v16a2 2 0 0 0 2 2h16`,key:`c24i48`}],[`rect`,{x:`15`,y:`5`,width:`4`,height:`12`,rx:`1`,key:`q8uenq`}],[`rect`,{x:`7`,y:`8`,width:`4`,height:`9`,rx:`1`,key:`sr5ea`}]])}));export{i as n,r as t};
+//# sourceMappingURL=c3b2d010-gj8sq15m0fg1tbrq.js.map

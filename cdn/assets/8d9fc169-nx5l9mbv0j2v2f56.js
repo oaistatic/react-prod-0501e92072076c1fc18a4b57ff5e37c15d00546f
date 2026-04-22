@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`Punnett square for Rr x Rr`,`Show a Punnett square for RR crossed with Rr`,`rr x Rr punnett square`,`RR x rr genetics cross`]}))();export{t as default};
+//# sourceMappingURL=8d9fc169-nx5l9mbv0j2v2f56.js.map

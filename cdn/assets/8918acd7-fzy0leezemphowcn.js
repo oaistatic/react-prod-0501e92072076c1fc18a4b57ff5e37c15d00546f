@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`P(A|B) = \\frac{P(A \\cap B)}{P(B)}`,`P(A\\mid B)=\\frac{P(A\\cap B)}{P(B)}`,`P(A|B)=P(A\\cap B)/P(B)`,`\\boxed{P(A\\mid B)=\\frac{P(A\\cap B)}{P(B)}}`]}))();export{t as default};
+//# sourceMappingURL=8918acd7-fzy0leezemphowcn.js.map

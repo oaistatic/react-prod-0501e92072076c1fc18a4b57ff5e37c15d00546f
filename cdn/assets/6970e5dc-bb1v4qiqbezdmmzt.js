@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`M\\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)`,`M = \\left(\\frac{x_2 + x_1}{2}, \\frac{y_2 + y_1}{2}\\right)`]}))();export{t as default};
+//# sourceMappingURL=6970e5dc-bb1v4qiqbezdmmzt.js.map

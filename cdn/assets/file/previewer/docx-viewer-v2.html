@@ -1,0 +1,890 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>DOCX Preview</title>
+    <script
+      src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"
+      integrity="sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/dompurify@3.3.1/dist/purify.min.js"
+      integrity="sha384-80VlBZnyAwkkqtSfg5NhPyZff6nU4K/qniLBL8Jnm4KDv6jZhLiYtJbhglg/i9ww"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/docx-preview@0.3.7/dist/docx-preview.min.js"
+      integrity="sha384-Fw+ZM2MtvxCe867uRzZY5GtGP+gs0NLvrlJS768RZWuKhOHMN4Fln3i3gMt1NSyQ"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family:
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background: #ffffff;
+        color: #0f172a;
+      }
+
+      body {
+        overflow: hidden;
+      }
+
+      .shell {
+        display: flex;
+        height: 100%;
+        width: 100%;
+        flex-direction: column;
+      }
+
+      .hidden {
+        display: none !important;
+      }
+
+      .loading,
+      .error {
+        display: flex;
+        height: 100%;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+      }
+
+      .spinner {
+        height: 28px;
+        width: 28px;
+        border: 3px solid rgba(15, 23, 42, 0.12);
+        border-top-color: rgba(15, 23, 42, 0.72);
+        border-radius: 999px;
+        animation: spin 0.8s linear infinite;
+      }
+
+      .error-card {
+        display: flex;
+        max-width: 420px;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+        text-align: center;
+      }
+
+      .error-message {
+        margin: 0;
+        font-size: 14px;
+        line-height: 20px;
+      }
+
+      .retry-button {
+        border: 1px solid rgba(15, 23, 42, 0.12);
+        border-radius: 999px;
+        background: #ffffff;
+        color: #0f172a;
+        cursor: pointer;
+        font: inherit;
+        padding: 8px 16px;
+      }
+
+      .viewer {
+        flex: 1;
+        min-height: 0;
+        overflow-x: auto;
+        overflow-y: auto;
+        background: #f1f3f4;
+        padding-bottom: 24px;
+      }
+
+      #content {
+        min-height: 100%;
+        min-width: 100%;
+      }
+
+      .viewer .recall-docx-viewer {
+        min-height: 100%;
+        width: max-content;
+        min-width: 100%;
+      }
+
+      .viewer .recall-docx-fit-shell {
+        box-sizing: border-box;
+        display: flex;
+        margin: 0;
+        overflow: auto;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 12px 16px 96px;
+      }
+
+      .viewer .recall-docx-scale-frame {
+        overflow: hidden;
+        position: relative;
+        flex: none;
+        border-radius: 12px;
+        background: #ffffff;
+        box-shadow: 0 4px 12px rgba(15, 23, 42, 0.08);
+      }
+
+      .viewer .recall-docx {
+        font-family: Calibri, "Segoe UI", Arial, sans-serif;
+        border-radius: 12px;
+        margin: 0 !important;
+        width: 100%;
+        max-width: none;
+        overflow: hidden !important;
+      }
+
+      .viewer .recall-docx ul,
+      .viewer .recall-docx ol {
+        padding-inline-start: 1.4em;
+      }
+
+      .viewer .recall-docx li::marker {
+        font-size: 0.9em;
+      }
+
+      .viewer .recall-docx-wrapper {
+        display: flex;
+        width: max-content;
+        min-width: 100%;
+        align-items: flex-start;
+        background: transparent;
+        padding: 0 !important;
+      }
+
+      @media (min-width: 640px) {
+        .viewer .recall-docx {
+          margin-bottom: 32px !important;
+        }
+      }
+
+      @keyframes spin {
+        from {
+          transform: rotate(0deg);
+        }
+
+        to {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <div id="loading" class="loading">
+        <div class="spinner" aria-label="Loading"></div>
+      </div>
+      <div id="error" class="error hidden">
+        <div class="error-card">
+          <p id="error-message" class="error-message"></p>
+          <button id="retry-button" class="retry-button hidden" type="button">
+            Retry
+          </button>
+        </div>
+      </div>
+      <div id="viewer" class="viewer hidden">
+        <div id="content"></div>
+      </div>
+    </div>
+    <script>
+      (() => {
+        const VIEWER = "docx";
+        const HANDSHAKE_REQUEST_MESSAGE_TYPE = "handshake.request";
+        const HANDSHAKE_ACCEPT_MESSAGE_TYPE = "handshake.accept";
+        const HANDSHAKE_REJECT_MESSAGE_TYPE = "handshake.reject";
+        const VIEWER_READY_MESSAGE_TYPE = "viewer.ready";
+        const VIEWER_RETRY_MESSAGE_TYPE = "viewer.retry";
+        const LOAD_STARTED_MESSAGE_TYPE = "load.started";
+        const LOAD_SUCCEEDED_MESSAGE_TYPE = "load.succeeded";
+        const LOAD_FAILED_MESSAGE_TYPE = "load.failed";
+        const RENDER_STARTED_MESSAGE_TYPE = "render.started";
+        const RENDER_SUCCEEDED_MESSAGE_TYPE = "render.succeeded";
+        const RENDER_FAILED_MESSAGE_TYPE = "render.failed";
+        const HANDSHAKE_REQUEST_INTERVAL_MS = 250;
+        const HANDSHAKE_TIMEOUT_MS = 5000;
+        const MIN_SCALE = 0.75;
+        const FIT_SHELL_HORIZONTAL_PADDING_PX = 16;
+        window.DOCX_PREVIEW_MIN_SCALE = MIN_SCALE;
+        const DOCX_RENDER_OPTIONS = {
+          className: "recall-docx",
+          inWrapper: true,
+          ignoreWidth: false,
+          ignoreHeight: false,
+          breakPages: true,
+          renderChanges: false,
+          renderComments: false,
+          renderAltChunks: false,
+          useBase64URL: true,
+          ignoreLastRenderedPageBreak: true,
+        };
+        const DOCX_ALLOWED_TAGS = [
+          "a",
+          "b",
+          "br",
+          "caption",
+          "code",
+          "col",
+          "colgroup",
+          "div",
+          "em",
+          "h1",
+          "h2",
+          "h3",
+          "h4",
+          "h5",
+          "h6",
+          "hr",
+          "i",
+          "img",
+          "li",
+          "ol",
+          "p",
+          "pre",
+          "small",
+          "span",
+          "strong",
+          "style",
+          "sub",
+          "sup",
+          "table",
+          "tbody",
+          "td",
+          "tfoot",
+          "th",
+          "thead",
+          "tr",
+          "u",
+          "ul",
+        ];
+        const DOCX_ALLOWED_ATTR = [
+          "align",
+          "alt",
+          "class",
+          "colspan",
+          "dir",
+          "height",
+          "href",
+          "id",
+          "lang",
+          "referrerpolicy",
+          "rel",
+          "rowspan",
+          "scope",
+          "src",
+          "style",
+          "target",
+          "title",
+          "valign",
+          "width",
+        ];
+        const DOCX_ALLOWED_ANCHOR_URI_REGEXP =
+          /^(?:(?:https?|mailto|tel):|#|\/|\.{1,2}\/)/i;
+        const DOCX_ALLOWED_EMBEDDED_URI_REGEXP = /^(?:data:|blob:)/i;
+        const DOCX_ALLOWED_URI_REGEXP =
+          /^(?:(?:https?|mailto|tel):|#|\/|\.{1,2}\/|data:|blob:)/i;
+        const channelToken = (() => {
+          try {
+            const params = new URLSearchParams(window.location.hash.slice(1));
+            const value = params.get("channelToken");
+            return value && value.length > 0 ? value : null;
+          } catch {
+            return null;
+          }
+        })();
+        const expectedParentOrigin = (() => {
+          try {
+            // This previewer is only embedded from a same-origin route in the app.
+            // Trusting the previewer URL's own origin prevents arbitrary third-party
+            // parents from becoming "trusted" just by embedding the iframe.
+            return new URL(window.location.href).origin;
+          } catch {
+            return null;
+          }
+        })();
+
+        const loadingEl = document.getElementById("loading");
+        const errorEl = document.getElementById("error");
+        const errorMessageEl = document.getElementById("error-message");
+        const retryButtonEl = document.getElementById("retry-button");
+        const viewerEl = document.getElementById("viewer");
+        const contentEl = document.getElementById("content");
+        let activeRenderToken = 0;
+        let activeRenderedContainer = null;
+        let activeResizeObserver = null;
+        let parentPort = null;
+        let handshakeIntervalId = null;
+        let handshakeTimeoutId = null;
+        let isHandshakeResolved = false;
+
+        function showLoading() {
+          loadingEl.classList.remove("hidden");
+          errorEl.classList.add("hidden");
+          viewerEl.classList.add("hidden");
+        }
+
+        function showError(message, retryable) {
+          errorMessageEl.textContent = message;
+          retryButtonEl.classList.toggle("hidden", !retryable);
+          loadingEl.classList.add("hidden");
+          viewerEl.classList.add("hidden");
+          errorEl.classList.remove("hidden");
+        }
+
+        function clearHandshakeTimers() {
+          if (handshakeIntervalId != null) {
+            window.clearInterval(handshakeIntervalId);
+            handshakeIntervalId = null;
+          }
+          if (handshakeTimeoutId != null) {
+            window.clearTimeout(handshakeTimeoutId);
+            handshakeTimeoutId = null;
+          }
+        }
+
+        function postBootstrapMessageToParent(message) {
+          if (expectedParentOrigin == null || channelToken == null) {
+            showError("Unable to load the file preview.", false);
+            return;
+          }
+
+          window.parent.postMessage(message, expectedParentOrigin);
+        }
+
+        function postMessageToParent(message) {
+          if (parentPort == null) {
+            showError("Unable to load the file preview.", false);
+            return;
+          }
+
+          parentPort.postMessage(message);
+        }
+
+        function endHandshake() {
+          isHandshakeResolved = true;
+          clearHandshakeTimers();
+        }
+
+        function isHandshakeAcceptMessage(value) {
+          return (
+            value &&
+            typeof value === "object" &&
+            value.type === HANDSHAKE_ACCEPT_MESSAGE_TYPE &&
+            value.payload &&
+            typeof value.payload === "object" &&
+            typeof value.payload.channelToken === "string" &&
+            value.payload.viewer === VIEWER
+          );
+        }
+
+        function isHandshakeRejectMessage(value) {
+          return (
+            value &&
+            typeof value === "object" &&
+            value.type === HANDSHAKE_REJECT_MESSAGE_TYPE &&
+            value.payload &&
+            typeof value.payload === "object" &&
+            typeof value.payload.channelToken === "string" &&
+            value.payload.viewer === VIEWER
+          );
+        }
+
+        function isLoadStartedMessage(value) {
+          return (
+            value &&
+            typeof value === "object" &&
+            value.type === LOAD_STARTED_MESSAGE_TYPE
+          );
+        }
+
+        function isLoadSucceededMessage(value) {
+          return (
+            value &&
+            typeof value === "object" &&
+            value.type === LOAD_SUCCEEDED_MESSAGE_TYPE &&
+            value.payload &&
+            typeof value.payload === "object" &&
+            Object.prototype.toString.call(value.payload.bytes) ===
+              "[object ArrayBuffer]"
+          );
+        }
+
+        function isLoadFailedMessage(value) {
+          return (
+            value &&
+            typeof value === "object" &&
+            value.type === LOAD_FAILED_MESSAGE_TYPE &&
+            value.payload &&
+            typeof value.payload === "object" &&
+            typeof value.payload.message === "string"
+          );
+        }
+
+        function bindParentPort(nextPort) {
+          if (parentPort != null) {
+            parentPort.onmessage = null;
+            parentPort.onmessageerror = null;
+            parentPort.close();
+          }
+
+          parentPort = nextPort;
+          parentPort.onmessage = (portEvent) => {
+            handlePortMessage(portEvent.data);
+          };
+          parentPort.onmessageerror = () => {
+            showError("Unable to load the file preview.", false);
+          };
+          parentPort.start();
+        }
+
+        function beginHandshake() {
+          if (isHandshakeResolved) {
+            return;
+          }
+          if (channelToken == null || expectedParentOrigin == null) {
+            showError("Unable to load the file preview.", false);
+            return;
+          }
+
+          const postHandshakeRequest = () => {
+            postBootstrapMessageToParent({
+              type: HANDSHAKE_REQUEST_MESSAGE_TYPE,
+              payload: {
+                channelToken,
+                viewer: VIEWER,
+              },
+            });
+          };
+
+          postHandshakeRequest();
+          handshakeIntervalId = window.setInterval(
+            postHandshakeRequest,
+            HANDSHAKE_REQUEST_INTERVAL_MS
+          );
+          handshakeTimeoutId = window.setTimeout(() => {
+            if (isHandshakeResolved) {
+              return;
+            }
+            clearHandshakeTimers();
+            showError("Unable to load the file preview.", false);
+          }, HANDSHAKE_TIMEOUT_MS);
+        }
+
+        function resetView() {
+          activeRenderToken += 1;
+          activeRenderedContainer = null;
+          disconnectResizeObserver();
+          contentEl.replaceChildren();
+          showLoading();
+        }
+
+        function handleRenderFailure(message, retryable) {
+          activeRenderToken += 1;
+          activeRenderedContainer = null;
+          disconnectResizeObserver();
+          contentEl.replaceChildren();
+          postMessageToParent({
+            type: RENDER_FAILED_MESSAGE_TYPE,
+            payload: {
+              message,
+            },
+          });
+          showError(message, retryable);
+        }
+
+        function sanitizeAnchorNodes(fragment) {
+          for (const link of fragment.querySelectorAll("a")) {
+            const href = (link.getAttribute("href") || "").trim();
+            const isAllowedHref =
+              href.length > 0 && DOCX_ALLOWED_ANCHOR_URI_REGEXP.test(href);
+            const isLocalAnchor = href.startsWith("#");
+            const isWebLink = /^https?:/i.test(href);
+
+            link.removeAttribute("download");
+            link.removeAttribute("ping");
+
+            if (!isAllowedHref) {
+              link.removeAttribute("href");
+              link.removeAttribute("target");
+              link.removeAttribute("rel");
+              link.removeAttribute("referrerpolicy");
+              continue;
+            }
+
+            if (isWebLink) {
+              link.setAttribute("target", "_blank");
+              link.setAttribute("rel", "noopener noreferrer nofollow");
+              link.setAttribute("referrerpolicy", "no-referrer");
+              continue;
+            }
+
+            if (isLocalAnchor) {
+              link.removeAttribute("target");
+              link.removeAttribute("rel");
+              link.removeAttribute("referrerpolicy");
+              continue;
+            }
+
+            link.removeAttribute("target");
+            link.removeAttribute("rel");
+            link.removeAttribute("referrerpolicy");
+          }
+        }
+
+        function sanitizeImageNodes(fragment) {
+          for (const image of fragment.querySelectorAll("img[src]")) {
+            const source = (image.getAttribute("src") || "").trim();
+            if (!DOCX_ALLOWED_EMBEDDED_URI_REGEXP.test(source)) {
+              image.removeAttribute("src");
+            }
+          }
+        }
+
+        function sanitizeRenderedDocx(container) {
+          const sanitizedDocx = window.DOMPurify.sanitize(container, {
+            USE_PROFILES: { html: true },
+            ALLOWED_TAGS: DOCX_ALLOWED_TAGS,
+            ALLOWED_ATTR: DOCX_ALLOWED_ATTR,
+            ALLOWED_URI_REGEXP: DOCX_ALLOWED_URI_REGEXP,
+            FORBID_ATTR: ["srcdoc"],
+            ALLOW_DATA_ATTR: false,
+            ALLOW_UNKNOWN_PROTOCOLS: false,
+            KEEP_CONTENT: true,
+            RETURN_DOM_FRAGMENT: true,
+          });
+
+          sanitizeAnchorNodes(sanitizedDocx);
+          sanitizeImageNodes(sanitizedDocx);
+
+          return sanitizedDocx;
+        }
+
+        function disconnectResizeObserver() {
+          if (activeResizeObserver != null) {
+            activeResizeObserver.disconnect();
+            activeResizeObserver = null;
+          }
+        }
+
+        function getDocxWrapper(renderedContainer) {
+          const wrapper = renderedContainer.querySelector(
+            ".recall-docx-wrapper"
+          );
+          return wrapper instanceof HTMLElement ? wrapper : null;
+        }
+
+        function getDocxPages(renderedContainer) {
+          const wrapper = getDocxWrapper(renderedContainer);
+          if (wrapper == null) {
+            return [];
+          }
+
+          return Array.from(
+            wrapper.querySelectorAll(":scope > .recall-docx")
+          ).filter((page) => page instanceof HTMLElement);
+        }
+
+        function normalizeTextContent(text) {
+          return text.replace(/\s+/g, " ").trim();
+        }
+
+        function isStandaloneTitlePage(page) {
+          const text = normalizeTextContent(page.textContent || "");
+          if (text.length === 0 || text.length > 140) {
+            return false;
+          }
+
+          if (page.querySelector("img, table, svg, canvas, ul, ol")) {
+            return false;
+          }
+
+          const contentBlocks = Array.from(
+            page.querySelectorAll("h1, h2, h3, h4, h5, h6, p")
+          ).filter((block) => {
+            return normalizeTextContent(block.textContent || "").length > 0;
+          });
+
+          if (contentBlocks.length === 0 || contentBlocks.length > 2) {
+            return false;
+          }
+
+          const nonHeadingBlocks = contentBlocks.filter((block) => {
+            return !/^H\d$/.test(block.tagName);
+          });
+
+          return (
+            nonHeadingBlocks.length === 0 ||
+            (nonHeadingBlocks.length === 1 &&
+              normalizeTextContent(nonHeadingBlocks[0].textContent || "")
+                .length <= 24)
+          );
+        }
+
+        function hideStandaloneTitlePage(renderedContainer) {
+          const pages = getDocxPages(renderedContainer);
+          if (pages.length < 2) {
+            return;
+          }
+
+          const [firstPage] = pages;
+          if (!isStandaloneTitlePage(firstPage)) {
+            return;
+          }
+
+          firstPage.remove();
+        }
+
+        function normalizeRenderedDocxPages(renderedContainer) {
+          for (const page of getDocxPages(renderedContainer)) {
+            page.style.setProperty("width", "100%");
+          }
+        }
+
+        function getMeasuredDocxElement(renderedContainer) {
+          return getDocxWrapper(renderedContainer) || renderedContainer;
+        }
+
+        function fitRenderedDocxToViewerWidth(renderedContainer) {
+          const measuredElement = getMeasuredDocxElement(renderedContainer);
+          renderedContainer.style.transform = "";
+          renderedContainer.style.transformOrigin = "";
+          renderedContainer.style.position = "";
+          renderedContainer.style.top = "";
+          renderedContainer.style.left = "";
+          renderedContainer.style.width = "";
+          renderedContainer.style.height = "";
+
+          const naturalWidth = measuredElement.scrollWidth;
+          const naturalHeight = measuredElement.scrollHeight;
+          const availableHeight = viewerEl.clientHeight;
+          const availableWidth = viewerEl.clientWidth;
+          const availableContentWidth = Math.max(
+            1,
+            availableWidth - FIT_SHELL_HORIZONTAL_PADDING_PX * 2
+          );
+
+          if (
+            naturalWidth <= 0 ||
+            naturalHeight <= 0 ||
+            availableWidth <= 0 ||
+            availableHeight <= 0
+          ) {
+            contentEl.replaceChildren(renderedContainer);
+            return;
+          }
+
+          const scale = Math.max(
+            MIN_SCALE,
+            availableContentWidth / naturalWidth
+          );
+          const scaledWidth = Math.ceil(naturalWidth * scale);
+          const scaledHeight = Math.ceil(naturalHeight * scale);
+          const fitShell = document.createElement("div");
+          fitShell.className = "recall-docx-fit-shell";
+          fitShell.style.width = `${availableWidth}px`;
+          fitShell.style.height = `${availableHeight}px`;
+          const scaleFrame = document.createElement("div");
+          scaleFrame.className = "recall-docx-scale-frame";
+          scaleFrame.style.width = `${scaledWidth}px`;
+          scaleFrame.style.height = `${scaledHeight}px`;
+
+          renderedContainer.style.position = "absolute";
+          renderedContainer.style.top = "0";
+          renderedContainer.style.left = "0";
+          renderedContainer.style.width = `${naturalWidth}px`;
+          renderedContainer.style.height = `${naturalHeight}px`;
+          renderedContainer.style.transform = `scale(${scale})`;
+          renderedContainer.style.transformOrigin = "top left";
+          scaleFrame.replaceChildren(renderedContainer);
+          fitShell.replaceChildren(scaleFrame);
+          contentEl.replaceChildren(fitShell);
+        }
+
+        function scheduleFitRenderedDocxToViewerWidth(renderedContainer) {
+          const schedule =
+            window.requestAnimationFrame ||
+            ((callback) => setTimeout(callback, 0));
+          schedule(() => {
+            if (activeRenderedContainer !== renderedContainer) {
+              return;
+            }
+            fitRenderedDocxToViewerWidth(renderedContainer);
+          });
+        }
+
+        function observeRenderedDocxWidth(renderedContainer) {
+          disconnectResizeObserver();
+          if (typeof window.ResizeObserver !== "function") {
+            return;
+          }
+
+          activeResizeObserver = new window.ResizeObserver(() => {
+            if (activeRenderedContainer !== renderedContainer) {
+              return;
+            }
+            fitRenderedDocxToViewerWidth(renderedContainer);
+          });
+          activeResizeObserver.observe(viewerEl);
+        }
+
+        async function renderDocumentData(documentData) {
+          const renderToken = ++activeRenderToken;
+          const detachedContainer = document.createElement("div");
+          await window.docx.renderAsync(
+            documentData,
+            detachedContainer,
+            detachedContainer,
+            DOCX_RENDER_OPTIONS
+          );
+          const sanitizedDocx = sanitizeRenderedDocx(detachedContainer);
+          if (renderToken !== activeRenderToken) {
+            return false;
+          }
+
+          const renderedContainer = document.createElement("div");
+          renderedContainer.className = "recall-docx-viewer";
+          renderedContainer.replaceChildren(
+            ...Array.from(sanitizedDocx.childNodes)
+          );
+          hideStandaloneTitlePage(renderedContainer);
+          normalizeRenderedDocxPages(renderedContainer);
+          activeRenderedContainer = renderedContainer;
+          contentEl.replaceChildren(renderedContainer);
+          observeRenderedDocxWidth(renderedContainer);
+          scheduleFitRenderedDocxToViewerWidth(renderedContainer);
+          loadingEl.classList.add("hidden");
+          errorEl.classList.add("hidden");
+          viewerEl.classList.remove("hidden");
+          return true;
+        }
+
+        function handlePortMessage(data) {
+          if (isLoadStartedMessage(data)) {
+            resetView();
+            return;
+          }
+
+          if (isLoadFailedMessage(data)) {
+            activeRenderToken += 1;
+            activeRenderedContainer = null;
+            disconnectResizeObserver();
+            contentEl.replaceChildren();
+            showError(data.payload.message, Boolean(data.payload.retryable));
+            return;
+          }
+          if (!isLoadSucceededMessage(data)) {
+            return;
+          }
+
+          if (
+            !data.payload.bytes ||
+            Object.prototype.toString.call(data.payload.bytes) !==
+              "[object ArrayBuffer]"
+          ) {
+            handleRenderFailure("Unable to load the file preview.", true);
+            return;
+          }
+
+          postMessageToParent({
+            type: RENDER_STARTED_MESSAGE_TYPE,
+            payload: {},
+          });
+          showLoading();
+          renderDocumentData(data.payload.bytes)
+            .then((didRender) => {
+              if (!didRender) {
+                return;
+              }
+              postMessageToParent({
+                type: RENDER_SUCCEEDED_MESSAGE_TYPE,
+                payload: {},
+              });
+            })
+            .catch(() => {
+              handleRenderFailure("Unable to load the file preview.", true);
+            });
+        }
+
+        window.addEventListener("message", (event) => {
+          if (event.source !== window.parent) {
+            return;
+          }
+          if (
+            expectedParentOrigin == null ||
+            event.origin !== expectedParentOrigin
+          ) {
+            return;
+          }
+
+          if (
+            isHandshakeRejectMessage(event.data) &&
+            channelToken != null &&
+            event.data.payload.channelToken === channelToken
+          ) {
+            endHandshake();
+            showError("Unable to load the file preview.", false);
+            return;
+          }
+
+          if (
+            !isHandshakeAcceptMessage(event.data) ||
+            channelToken == null ||
+            event.data.payload.channelToken !== channelToken
+          ) {
+            return;
+          }
+
+          const nextPort = event.ports[0];
+          if (!(nextPort instanceof MessagePort)) {
+            return;
+          }
+
+          endHandshake();
+          bindParentPort(nextPort);
+          postMessageToParent({
+            type: VIEWER_READY_MESSAGE_TYPE,
+            payload: {},
+          });
+        });
+
+        retryButtonEl.addEventListener("click", () => {
+          resetView();
+          postMessageToParent({
+            type: VIEWER_RETRY_MESSAGE_TYPE,
+            payload: {},
+          });
+        });
+
+        window.addEventListener("pagehide", () => {
+          clearHandshakeTimers();
+          if (parentPort != null) {
+            parentPort.onmessage = null;
+            parentPort.onmessageerror = null;
+            parentPort.close();
+            parentPort = null;
+          }
+        });
+
+        beginHandshake();
+      })();
+    </script>
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f04d254e92ea609',t:'MTc3Njg2MjkzMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

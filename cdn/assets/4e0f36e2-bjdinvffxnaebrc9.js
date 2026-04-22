@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`e^{i\\theta} = \\cos(\\theta) + i\\sin(\\theta)`,`\\cos x + i\\sin x = e^{ix}`,`e^{-ix} = \\cos(x) - i\\sin(x)`]}))();export{t as default};
+//# sourceMappingURL=4e0f36e2-bjdinvffxnaebrc9.js.map

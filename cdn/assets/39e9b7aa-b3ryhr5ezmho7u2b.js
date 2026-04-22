@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ChefHat`,[[`path`,{d:`M17 21a1 1 0 0 0 1-1v-5.35c0-.457.316-.844.727-1.041a4 4 0 0 0-2.134-7.589 5 5 0 0 0-9.186 0 4 4 0 0 0-2.134 7.588c.411.198.727.585.727 1.041V20a1 1 0 0 0 1 1Z`,key:`1qvrer`}],[`path`,{d:`M6 17h12`,key:`1jwigz`}]])}));export{i as n,r as t};
+//# sourceMappingURL=39e9b7aa-b3ryhr5ezmho7u2b.js.map

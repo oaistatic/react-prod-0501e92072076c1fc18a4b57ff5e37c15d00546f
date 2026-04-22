@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Cone`,[[`path`,{d:`m20.9 18.55-8-15.98a1 1 0 0 0-1.8 0l-8 15.98`,key:`53pte7`}],[`ellipse`,{cx:`12`,cy:`19`,rx:`9`,ry:`3`,key:`1ji25f`}]])}));export{i as n,r as t};
+//# sourceMappingURL=cff179e7-jqtjlmtbralsejqx.js.map

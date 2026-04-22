@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}`,`x = (-b \\pm \\sqrt{b^2 - 4ac})/(2a)`]}))();export{t as default};
+//# sourceMappingURL=eb92d1c4-kyyesrlzjhcfyx76.js.map

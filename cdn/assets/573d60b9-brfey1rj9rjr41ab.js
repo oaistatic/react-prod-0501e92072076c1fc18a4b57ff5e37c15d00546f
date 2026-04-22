@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r,i,a,o,s,c,l=e((()=>{t=`webp`,n=1440,r=`srgb`,i=`uchar`,a=`4:2:0`,o={width:1440,height:642},s=`/cdn/assets/blue-pink-noisy-gradient-dlqsf7mw.webp`,c={format:t,width:n,height:642,space:r,channels:3,depth:i,density:72,chromaSubsampling:a,isProgressive:!0,isPalette:!1,hasProfile:!1,hasAlpha:!1,autoOrient:o,src:s}}));export{l as n,c as t};
+//# sourceMappingURL=573d60b9-brfey1rj9rjr41ab.js.map

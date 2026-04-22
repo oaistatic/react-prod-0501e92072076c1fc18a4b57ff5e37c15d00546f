@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Donut`,[[`path`,{d:`M20.5 10a2.5 2.5 0 0 1-2.4-3H18a2.95 2.95 0 0 1-2.6-4.4 10 10 0 1 0 6.3 7.1c-.3.2-.8.3-1.2.3`,key:`19sr3x`}],[`circle`,{cx:`12`,cy:`12`,r:`3`,key:`1v7zrd`}]])}));export{i as n,r as t};
+//# sourceMappingURL=2f63371b-oevk1yih7vjnwnz0.js.map

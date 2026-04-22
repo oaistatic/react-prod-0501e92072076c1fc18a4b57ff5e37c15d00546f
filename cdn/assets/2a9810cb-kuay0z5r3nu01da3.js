@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Tent`,[[`path`,{d:`M3.5 21 14 3`,key:`1szst5`}],[`path`,{d:`M20.5 21 10 3`,key:`1310c3`}],[`path`,{d:`M15.5 21 12 15l-3.5 6`,key:`1ddtfw`}],[`path`,{d:`M2 21h20`,key:`1nyx9w`}]])}));export{i as n,r as t};
+//# sourceMappingURL=2a9810cb-kuay0z5r3nu01da3.js.map

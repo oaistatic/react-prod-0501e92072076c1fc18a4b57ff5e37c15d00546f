@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\sin^2(x) + \\cos^2(x) = 1`,`\\cos^2(x)+\\sin^2(x)=1`,`\\sin^2\\theta + \\cos^2\\theta = 1`,`\\sin^2(\\theta)+\\cos^2(\\theta)=1`,`sin^2θ + cos^2θ = 1`]}))();export{t as default};
+//# sourceMappingURL=43195cf3-icmdcimw6ldhaud6.js.map

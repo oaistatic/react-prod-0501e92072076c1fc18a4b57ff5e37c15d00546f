@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r,i,a,o=e((()=>{t=`w-[400px]`,n=`${t} max-w-full`,r=`aspect-[9/16] ${n}`,i=`aspect-[45/32] min-h-[248px] ${n}`,a=(e,t)=>{if(!(typeof e!=`number`||typeof t!=`number`))return t>e?`portrait`:`landscape`}}));export{o as i,r as n,a as r,i as t};
+//# sourceMappingURL=407de169-dh1y6c3tyugxkuw3.js.map

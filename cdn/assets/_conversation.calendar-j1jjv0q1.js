@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{$t as t,Ht as n,U as r,et as i,tt as a}from"./2340486e-epv5pa20wdn92ya5.js";var o,s,c,l,u=e((()=>{r(),o=a(),i(),s={hasRouteMeta:!1,useScrollRestoration:!0},c=({serverLoader:e})=>e(),l=t(function(){"use forget";let e=(0,o.c)(3),{initialWeek:t,nowIso:r}=n(),i;return e[0]!==t||e[1]!==r?(i=null,e[0]=t,e[1]=r,e[2]=i):i=e[2],i})}));e((()=>{u()}))();export{c as clientLoader,l as default,s as handle};
+//# sourceMappingURL=_conversation.calendar-j1jjv0q1.js.map

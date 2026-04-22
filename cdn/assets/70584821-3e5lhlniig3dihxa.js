@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`z = \\frac{x - \\mu}{\\sigma}`,`z = \\frac{x - \\bar{x}}{s}`,`z = \\frac{\\bar{x} - \\mu_0}{\\sigma / \\sqrt{n}}`,`z = \\frac{\\bar{x} - \\mu0}{\\sigma / \\sqrt{n}}`]}))();export{t as default};
+//# sourceMappingURL=70584821-3e5lhlniig3dihxa.js.map

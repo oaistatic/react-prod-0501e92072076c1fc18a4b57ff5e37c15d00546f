@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CalendarX2`,[[`path`,{d:`M8 2v4`,key:`1cmpym`}],[`path`,{d:`M16 2v4`,key:`4m81vk`}],[`path`,{d:`M21 13V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8`,key:`3spt84`}],[`path`,{d:`M3 10h18`,key:`8toen8`}],[`path`,{d:`m17 22 5-5`,key:`1k6ppv`}],[`path`,{d:`m17 17 5 5`,key:`p7ous7`}]])}));export{i as n,r as t};
+//# sourceMappingURL=b42004b2-of4ieiz75015c24s.js.map

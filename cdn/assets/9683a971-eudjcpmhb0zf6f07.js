@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SquareArrowOutDownLeft`,[[`path`,{d:`M13 21h6a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v6`,key:`14qz4y`}],[`path`,{d:`m3 21 9-9`,key:`1jfql5`}],[`path`,{d:`M9 21H3v-6`,key:`wtvkvv`}]])}));export{i as n,r as t};
+//# sourceMappingURL=9683a971-eudjcpmhb0zf6f07.js.map

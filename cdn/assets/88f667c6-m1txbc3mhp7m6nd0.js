@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`BriefcaseMedical`,[[`path`,{d:`M12 11v4`,key:`a6ujw6`}],[`path`,{d:`M14 13h-4`,key:`1pl8zg`}],[`path`,{d:`M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2`,key:`1ksdt3`}],[`path`,{d:`M18 6v14`,key:`1mu4gy`}],[`path`,{d:`M6 6v14`,key:`1s15cj`}],[`rect`,{width:`20`,height:`14`,x:`2`,y:`6`,rx:`2`,key:`i6l2r4`}]])}));export{i as n,r as t};
+//# sourceMappingURL=88f667c6-m1txbc3mhp7m6nd0.js.map

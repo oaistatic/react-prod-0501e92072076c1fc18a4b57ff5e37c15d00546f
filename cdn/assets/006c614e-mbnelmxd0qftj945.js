@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\text{Area} = s^2`,`\\text{Area} = a^2`,`A = s^2`,`A = a^2`,`s^2 = \\text{Area}`,`a^2 = \\text{Area}`,`s^2 = A`,`a^2 = A`,`square area`]}))();export{t as default};
+//# sourceMappingURL=006c614e-mbnelmxd0qftj945.js.map

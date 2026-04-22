@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`GalleryThumbnails`,[[`rect`,{width:`18`,height:`14`,x:`3`,y:`3`,rx:`2`,key:`74y24f`}],[`path`,{d:`M4 21h1`,key:`16zlid`}],[`path`,{d:`M9 21h1`,key:`15o7lz`}],[`path`,{d:`M14 21h1`,key:`v9vybs`}],[`path`,{d:`M19 21h1`,key:`edywat`}]])}));export{i as n,r as t};
+//# sourceMappingURL=66dd6765-jogoyhjm08sd0sg7.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./6cc2e9d0-c3sa68gf5c1p4s8b.js";await e((async()=>{await n()}))();export{t as default};
+//# sourceMappingURL=internal.apps_._name._id-bszm19t4.js.map

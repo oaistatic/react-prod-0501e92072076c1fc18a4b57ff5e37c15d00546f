@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n=e((()=>{t=({intl:e,amount:t,currency:n})=>{let{minimumFractionDigits:r=0}=e.formatters.getNumberFormat(e.locale,{style:`currency`,currency:n}).resolvedOptions();return e.formatNumber(t/10**r,{currency:n,style:`currency`})}}));export{n,t};
+//# sourceMappingURL=5ea389ac-e1aokeh9j6wojesl.js.map

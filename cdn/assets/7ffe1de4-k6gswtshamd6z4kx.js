@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`UserRoundPlus`,[[`path`,{d:`M2 21a8 8 0 0 1 13.292-6`,key:`bjp14o`}],[`circle`,{cx:`10`,cy:`8`,r:`5`,key:`o932ke`}],[`path`,{d:`M19 16v6`,key:`tddt3s`}],[`path`,{d:`M22 19h-6`,key:`vcuq98`}]])}));export{i as n,r as t};
+//# sourceMappingURL=7ffe1de4-k6gswtshamd6z4kx.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`nP_r = \\frac{n!}{(n-r)!}`,`{}^nP_r = \\frac{n!}{(n-r)!}`,`P(n,r)=\\frac{n!}{(n-r)!}`]}))();export{t as default};
+//# sourceMappingURL=95ed52d5-lpossf4110hrsn7e.js.map

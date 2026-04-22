@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{a as t,o as n}from"./25a66342-lp91zfjcxfxc8v8y.js";var r,i=e((()=>{n(),r=t(({flowchart:e})=>{let t=e?.subGraphTitleMargin?.top??0,n=e?.subGraphTitleMargin?.bottom??0;return{subGraphTitleTopMargin:t,subGraphTitleBottomMargin:n,subGraphTitleTotalMargin:t+n}},`getSubGraphTitleMargins`)}));export{i as n,r as t};
+//# sourceMappingURL=c0ede74c-gq7go9c7smxivusx.js.map

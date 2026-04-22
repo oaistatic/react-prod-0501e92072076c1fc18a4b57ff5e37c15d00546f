@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Barcode`,[[`path`,{d:`M3 5v14`,key:`1nt18q`}],[`path`,{d:`M8 5v14`,key:`1ybrkv`}],[`path`,{d:`M12 5v14`,key:`s699le`}],[`path`,{d:`M17 5v14`,key:`ycjyhj`}],[`path`,{d:`M21 5v14`,key:`nzette`}]])}));export{i as n,r as t};
+//# sourceMappingURL=90c15511-kzg01az1727ykrib.js.map

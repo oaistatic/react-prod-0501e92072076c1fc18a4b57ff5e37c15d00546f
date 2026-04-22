@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`DiamondMinus`,[[`path`,{d:`M2.7 10.3a2.41 2.41 0 0 0 0 3.41l7.59 7.59a2.41 2.41 0 0 0 3.41 0l7.59-7.59a2.41 2.41 0 0 0 0-3.41L13.7 2.71a2.41 2.41 0 0 0-3.41 0z`,key:`1ey20j`}],[`path`,{d:`M8 12h8`,key:`1wcyev`}]])}));export{i as n,r as t};
+//# sourceMappingURL=9d269d4c-oqpqb348r0f9bpl6.js.map

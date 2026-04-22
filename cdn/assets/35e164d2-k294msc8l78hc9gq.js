@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ScanFace`,[[`path`,{d:`M3 7V5a2 2 0 0 1 2-2h2`,key:`aa7l1z`}],[`path`,{d:`M17 3h2a2 2 0 0 1 2 2v2`,key:`4qcy5o`}],[`path`,{d:`M21 17v2a2 2 0 0 1-2 2h-2`,key:`6vwrx8`}],[`path`,{d:`M7 21H5a2 2 0 0 1-2-2v-2`,key:`ioqczr`}],[`path`,{d:`M8 14s1.5 2 4 2 4-2 4-2`,key:`1y1vjs`}],[`path`,{d:`M9 9h.01`,key:`1q5me6`}],[`path`,{d:`M15 9h.01`,key:`x1ddxp`}]])}));export{i as n,r as t};
+//# sourceMappingURL=35e164d2-k294msc8l78hc9gq.js.map

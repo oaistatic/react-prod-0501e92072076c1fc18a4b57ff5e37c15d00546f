@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r=e((()=>{t={label:`n`,min:3,max:12,step:1,defaultValue:6},n={properties:{n:t}}}));export{n,r,t};
+//# sourceMappingURL=5cde0f12-hcrmeledqwtcm7yu.js.map

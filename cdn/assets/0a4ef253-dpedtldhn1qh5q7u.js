@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Popcorn`,[[`path`,{d:`M18 8a2 2 0 0 0 0-4 2 2 0 0 0-4 0 2 2 0 0 0-4 0 2 2 0 0 0-4 0 2 2 0 0 0 0 4`,key:`10td1f`}],[`path`,{d:`M10 22 9 8`,key:`yjptiv`}],[`path`,{d:`m14 22 1-14`,key:`8jwc8b`}],[`path`,{d:`M20 8c.5 0 .9.4.8 1l-2.6 12c-.1.5-.7 1-1.2 1H7c-.6 0-1.1-.4-1.2-1L3.2 9c-.1-.6.3-1 .8-1Z`,key:`1qo33t`}]])}));export{i as n,r as t};
+//# sourceMappingURL=0a4ef253-dpedtldhn1qh5q7u.js.map

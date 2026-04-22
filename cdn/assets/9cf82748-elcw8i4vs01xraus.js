@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`y = r\\sin\\theta`,`y = r\\sin(\\theta)`,`y = \\rho\\sin\\phi`,`y = \\sin\\theta`]}))();export{t as default};
+//# sourceMappingURL=9cf82748-elcw8i4vs01xraus.js.map

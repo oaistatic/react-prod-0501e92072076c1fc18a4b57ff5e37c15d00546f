@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Section`,[[`path`,{d:`M16 5a4 3 0 0 0-8 0c0 4 8 3 8 7a4 3 0 0 1-8 0`,key:`vqan6v`}],[`path`,{d:`M8 19a4 3 0 0 0 8 0c0-4-8-3-8-7a4 3 0 0 1 8 0`,key:`wdjd8o`}]])}));export{i as n,r as t};
+//# sourceMappingURL=3fb45623-e7s0bwdoznnhwoqh.js.map

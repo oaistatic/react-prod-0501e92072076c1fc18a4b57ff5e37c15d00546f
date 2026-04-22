@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`PoundSterling`,[[`path`,{d:`M18 7c0-5.333-8-5.333-8 0`,key:`1prm2n`}],[`path`,{d:`M10 7v14`,key:`18tmcs`}],[`path`,{d:`M6 21h12`,key:`4dkmi1`}],[`path`,{d:`M6 13h10`,key:`ybwr4a`}]])}));export{i as n,r as t};
+//# sourceMappingURL=b15de052-cso8s4roharsu0f8.js.map

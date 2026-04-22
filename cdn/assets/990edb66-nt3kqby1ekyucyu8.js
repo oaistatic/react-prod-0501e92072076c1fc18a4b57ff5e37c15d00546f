@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SquarePlay`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`m9 8 6 4-6 4Z`,key:`f1r3lt`}]])}));export{i as n,r as t};
+//# sourceMappingURL=990edb66-nt3kqby1ekyucyu8.js.map

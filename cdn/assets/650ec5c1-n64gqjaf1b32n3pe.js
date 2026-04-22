@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MessageCircleCode`,[[`path`,{d:`M10 9.5 8 12l2 2.5`,key:`3mjy60`}],[`path`,{d:`m14 9.5 2 2.5-2 2.5`,key:`1bir2l`}],[`path`,{d:`M7.9 20A9 9 0 1 0 4 16.1L2 22z`,key:`k85zhp`}]])}));export{i as n,r as t};
+//# sourceMappingURL=650ec5c1-n64gqjaf1b32n3pe.js.map

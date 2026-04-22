@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MoonStar`,[[`path`,{d:`M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9`,key:`4ay0iu`}],[`path`,{d:`M20 3v4`,key:`1olli1`}],[`path`,{d:`M22 5h-4`,key:`1gvqau`}]])}));export{i as n,r as t};
+//# sourceMappingURL=4c82258c-jx4g3kszlxmvbab9.js.map

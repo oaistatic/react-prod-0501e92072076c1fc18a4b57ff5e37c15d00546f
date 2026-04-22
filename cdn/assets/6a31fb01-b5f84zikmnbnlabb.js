@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\vec u \\cdot \\vec v`,`\\vec a \\cdot \\vec b`,`\\mathbf a \\cdot \\mathbf b`]}))();export{t as default};
+//# sourceMappingURL=6a31fb01-b5f84zikmnbnlabb.js.map

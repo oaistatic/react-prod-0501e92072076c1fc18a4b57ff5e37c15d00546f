@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{$t as t,U as n,et as r}from"./2340486e-epv5pa20wdn92ya5.js";import{r as i,t as a}from"./ec722179-no5z33g0cmvuap7d.js";var o,s,c=e((()=>{n(),i(),o=r(),s=t(function(){return(0,o.jsx)(a,{})})}));e((()=>{c()}))();export{s as default};
+//# sourceMappingURL=business-free-workspace-jvaopyxo.js.map

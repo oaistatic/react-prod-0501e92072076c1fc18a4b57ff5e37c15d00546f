@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}`,`\\frac{1}{f} = \\frac{1}{a} + \\frac{1}{b}`,`1/f=1/u+1/v`,`1/f=1/v+1/u`,`1/f=1/a+1/b`,`1/f=1/b+1/a`,`1/u+1/v=1/f`,`1/v+1/u=1/f`,`1/a+1/b=1/f`,`1/b+1/a=1/f`]}))();export{t as default};
+//# sourceMappingURL=48fa17c1-23i48girwaq0bppj.js.map

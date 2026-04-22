@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\sin(\\theta) = \\frac{3}{5}`,`\\sin A = \\frac{\\text{opposite}}{\\text{hypotenuse}}`]}))();export{t as default};
+//# sourceMappingURL=fd984960-feg4c8n4fvok7svm.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SeparatorVertical`,[[`line`,{x1:`12`,x2:`12`,y1:`3`,y2:`21`,key:`1efggb`}],[`polyline`,{points:`8 8 4 12 8 16`,key:`bnfmv4`}],[`polyline`,{points:`16 16 20 12 16 8`,key:`u90052`}]])}));export{i as n,r as t};
+//# sourceMappingURL=af7be6d4-cjh9wesvn6vldi49.js.map

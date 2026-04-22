@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`P(A \\cup B) = P(A) + P(B) - P(A \\cap B)`,`P(A\\cup B)=P(A)+P(B)-P(A\\cap B);`]}))();export{t as default};
+//# sourceMappingURL=c087f3ad-h3e8n53p1m11r7fo.js.map

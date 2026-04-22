@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Watch`,[[`circle`,{cx:`12`,cy:`12`,r:`6`,key:`1vlfrh`}],[`polyline`,{points:`12 10 12 12 13 13`,key:`19dquz`}],[`path`,{d:`m16.13 7.66-.81-4.05a2 2 0 0 0-2-1.61h-2.68a2 2 0 0 0-2 1.61l-.78 4.05`,key:`18k57s`}],[`path`,{d:`m7.88 16.36.8 4a2 2 0 0 0 2 1.61h2.72a2 2 0 0 0 2-1.61l.81-4.05`,key:`16ny36`}]])}));export{i as n,r as t};
+//# sourceMappingURL=baed8316-icxh8qo4v4bx09zc.js.map

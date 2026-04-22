@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`S = 4\\pi r^2`,`S = 4\\pi r^2;`,`a=4pir^2`,`s=4pir^2`,`4pir^2=a`,`4pir^2=s`,`4pir^2`]}))();export{t as default};
+//# sourceMappingURL=bd7bb24f-ls31y1eu81pf9489.js.map

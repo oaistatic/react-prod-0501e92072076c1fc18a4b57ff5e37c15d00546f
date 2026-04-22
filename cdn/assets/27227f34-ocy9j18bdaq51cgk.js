@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{et as t}from"./2340486e-epv5pa20wdn92ya5.js";import{n,r,t as i}from"./d2ea7f17-eo7ujmskbm3y9hn0.js";var a,o,s;e((()=>{r(),a=t(),o=e=>(0,a.jsx)(i,{...e,divisionType:`mitosis`}),s=e=>(0,a.jsx)(n,{...e,divisionType:`mitosis`})}))();export{o as MitosisControls,s as MitosisVisualization};
+//# sourceMappingURL=27227f34-ocy9j18bdaq51cgk.js.map

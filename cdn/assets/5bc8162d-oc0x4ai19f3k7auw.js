@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`TextCursorInput`,[[`path`,{d:`M5 4h1a3 3 0 0 1 3 3 3 3 0 0 1 3-3h1`,key:`18xjzo`}],[`path`,{d:`M13 20h-1a3 3 0 0 1-3-3 3 3 0 0 1-3 3H5`,key:`fj48gi`}],[`path`,{d:`M5 16H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h1`,key:`1n9rhb`}],[`path`,{d:`M13 8h7a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-7`,key:`13ksps`}],[`path`,{d:`M9 7v10`,key:`1vc8ob`}]])}));export{i as n,r as t};
+//# sourceMappingURL=5bc8162d-oc0x4ai19f3k7auw.js.map

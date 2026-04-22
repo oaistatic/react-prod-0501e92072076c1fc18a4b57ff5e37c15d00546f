@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{a as t,o as n,t as r}from"./25a66342-lp91zfjcxfxc8v8y.js";import{l as i}from"./25a66342-h3hfknw4z5t5f3fx.js";var a,o=e((()=>{n(),r(),a=t((e,t)=>{let n;return t===`sandbox`&&(n=i(`#i`+e)),i(t===`sandbox`?n.nodes()[0].contentDocument.body:`body`).select(`[id="${e}"]`)},`getDiagramElement`)}));export{o as n,a as t};
+//# sourceMappingURL=b2c31c6d-okqb6w7lp8t6h334.js.map

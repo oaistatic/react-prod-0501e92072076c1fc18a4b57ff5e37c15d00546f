@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{et as t}from"./2340486e-epv5pa20wdn92ya5.js";import{i as n,n as r,t as i}from"./4726db99-h48hbqjb2tkn765v.js";var a,o,s;e((()=>{n(),a=t(),o=e=>(0,a.jsx)(i,{...e,variant:`scalene`}),s=e=>(0,a.jsx)(r,{...e,variant:`scalene`})}))();export{o as ScaleneTriangleControls,s as ScaleneTriangleVisualization};
+//# sourceMappingURL=583a6488-mc643dib9cb7x11r.js.map

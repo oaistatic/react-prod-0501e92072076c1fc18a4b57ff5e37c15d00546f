@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Angry`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`path`,{d:`M16 16s-1.5-2-4-2-4 2-4 2`,key:`epbg0q`}],[`path`,{d:`M7.5 8 10 9`,key:`olxxln`}],[`path`,{d:`m14 9 2.5-1`,key:`1j6cij`}],[`path`,{d:`M9 10h.01`,key:`qbtxuw`}],[`path`,{d:`M15 10h.01`,key:`1qmjsl`}]])}));export{i as n,r as t};
+//# sourceMappingURL=0a96f196-eo8jphfpgc3k94u5.js.map

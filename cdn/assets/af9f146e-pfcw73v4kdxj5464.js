@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`BellOff`,[[`path`,{d:`M8.7 3A6 6 0 0 1 18 8a21.3 21.3 0 0 0 .6 5`,key:`o7mx20`}],[`path`,{d:`M17 17H3s3-2 3-9a4.67 4.67 0 0 1 .3-1.7`,key:`16f1lm`}],[`path`,{d:`M10.3 21a1.94 1.94 0 0 0 3.4 0`,key:`qgo35s`}],[`path`,{d:`m2 2 20 20`,key:`1ooewy`}]])}));export{i as n,r as t};
+//# sourceMappingURL=af9f146e-pfcw73v4kdxj5464.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Newspaper`,[[`path`,{d:`M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2`,key:`7pis2x`}],[`path`,{d:`M18 14h-8`,key:`sponae`}],[`path`,{d:`M15 18h-5`,key:`95g1m2`}],[`path`,{d:`M10 6h8v4h-8V6Z`,key:`smlsk5`}]])}));export{i as n,r as t};
+//# sourceMappingURL=f29c4511-oz9yen9tfi7gh17c.js.map

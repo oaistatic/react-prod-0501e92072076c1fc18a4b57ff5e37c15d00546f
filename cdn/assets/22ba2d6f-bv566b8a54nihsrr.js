@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Pyramid`,[[`path`,{d:`M2.5 16.88a1 1 0 0 1-.32-1.43l9-13.02a1 1 0 0 1 1.64 0l9 13.01a1 1 0 0 1-.32 1.44l-8.51 4.86a2 2 0 0 1-1.98 0Z`,key:`aenxs0`}],[`path`,{d:`M12 2v20`,key:`t6zp3m`}]])}));export{i as n,r as t};
+//# sourceMappingURL=22ba2d6f-bv566b8a54nihsrr.js.map

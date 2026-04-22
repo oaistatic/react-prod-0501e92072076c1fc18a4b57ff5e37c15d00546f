@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Bomb`,[[`circle`,{cx:`11`,cy:`13`,r:`9`,key:`hd149`}],[`path`,{d:`M14.35 4.65 16.3 2.7a2.41 2.41 0 0 1 3.4 0l1.6 1.6a2.4 2.4 0 0 1 0 3.4l-1.95 1.95`,key:`jp4j1b`}],[`path`,{d:`m22 2-1.5 1.5`,key:`ay92ug`}]])}));export{i as n,r as t};
+//# sourceMappingURL=eb0afd90-hic8qpo0t2da2dh7.js.map

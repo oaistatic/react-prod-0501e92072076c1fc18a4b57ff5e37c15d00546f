@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ReceiptRussianRuble`,[[`path`,{d:`M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z`,key:`q3az6g`}],[`path`,{d:`M8 15h5`,key:`vxg57a`}],[`path`,{d:`M8 11h5a2 2 0 1 0 0-4h-3v10`,key:`1usi5u`}]])}));export{i as n,r as t};
+//# sourceMappingURL=2074281e-kqydsyq64shixutn.js.map

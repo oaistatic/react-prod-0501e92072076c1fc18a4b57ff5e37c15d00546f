@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`mRNA translation`,`translate mRNA codons into amino acids`,`how does mRNA become protein`,`what is a stop codon`,`ribosome reads codons`]}))();export{t as default};
+//# sourceMappingURL=810dcbc6-n62fls1ta3uept8q.js.map

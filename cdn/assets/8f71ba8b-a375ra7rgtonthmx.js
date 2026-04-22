@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{_ot as t,lot as n}from"./4813494d-7wk99m1ly4swd636.js";function r(e){return e?n(o):!0}function i({hasAdminPrivileges:e,isFedrampCompliantWorkspace:t}){return!!e&&r(t)}function a({isFedrampCompliantWorkspace:e,noConnectorsAvailable:t,isDirectoryEnabled:n}){return!r(e)&&e||t&&!n}var o,s=e((()=>{t(),o=`152371702`}));export{a as i,r as n,i as r,s as t};
+//# sourceMappingURL=8f71ba8b-a375ra7rgtonthmx.js.map

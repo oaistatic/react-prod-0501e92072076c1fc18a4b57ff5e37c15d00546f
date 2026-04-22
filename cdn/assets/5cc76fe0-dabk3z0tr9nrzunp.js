@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`A = \\pi r^2`,`A = \\frac{\\pi d^2}{4}`,`\\pi r^2`,`\\frac{\\pi d^2}{4}`,`a=pir^2`,`pir^2=a`,`a=pid^2/4`,`pid^2/4=a`,`pir^2`,`pid^2/4`]}))();export{t as default};
+//# sourceMappingURL=5cc76fe0-dabk3z0tr9nrzunp.js.map

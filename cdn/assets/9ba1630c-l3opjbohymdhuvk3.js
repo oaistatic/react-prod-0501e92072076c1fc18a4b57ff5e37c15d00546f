@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`DNA transcription`,`DNA to mRNA transcription`,`how does DNA become mRNA`,`template DNA strand to mRNA`,`RNA base pairing during transcription`]}))();export{t as default};
+//# sourceMappingURL=9ba1630c-l3opjbohymdhuvk3.js.map

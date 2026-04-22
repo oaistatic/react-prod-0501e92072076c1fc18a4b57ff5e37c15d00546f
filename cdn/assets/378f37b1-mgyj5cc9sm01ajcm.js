@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";function t(e){if(!e)return null;let t=e.match(/filename\*\s*=\s*([^;]+)/i);if(t&&t[1]){let e=t[1].trim(),n=e.split(`''`);if(n.length===2)try{return decodeURIComponent(n[1])}catch{return n[1]}return e}return t=e.match(/filename="?([^"]+)"?/),t&&t[1]?t[1]:null}var n=e((()=>{}));export{n,t};
+//# sourceMappingURL=378f37b1-mgyj5cc9sm01ajcm.js.map

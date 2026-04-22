@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r,r as i,t as a}from"./bcae0416-i2c00cemqkwbhk3k.js";r();export{a as autoCloseTags,n as html,i as htmlCompletionSource,t as htmlCompletionSourceWith,e as htmlLanguage};

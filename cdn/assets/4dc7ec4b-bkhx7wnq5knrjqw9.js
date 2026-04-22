@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`AlignLeft`,[[`path`,{d:`M15 12H3`,key:`6jk70r`}],[`path`,{d:`M17 18H3`,key:`1amg6g`}],[`path`,{d:`M21 6H3`,key:`1jwq7v`}]])}));export{i as n,r as t};
+//# sourceMappingURL=4dc7ec4b-bkhx7wnq5knrjqw9.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`V = \\frac{4}{3}\\pi r^3`,`v=4/3pir^3`,`4/3pir^3=v`,`4/3pir^3`]}))();export{t as default};
+//# sourceMappingURL=2ef84b80-ch3mf599y884zfea.js.map

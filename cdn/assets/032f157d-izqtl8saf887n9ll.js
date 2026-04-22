@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\Delta U = q + w`,`\\Delta U = q - w`,`q = \\Delta U + w`]}))();export{t as default};
+//# sourceMappingURL=032f157d-izqtl8saf887n9ll.js.map

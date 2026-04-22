@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\begin{cases} x + 2y = 5 \\\\ 3x + 4y = 6 \\end{cases}`,`\\begin{cases} 2x - y = 1 \\\\ x + y = 4 \\end{cases}`,`\\begin{cases}2x+3y=6\\\\x-y=2\\end{cases}`]}))();export{t as default};
+//# sourceMappingURL=09e0be45-d3tra1gkhbhygq7m.js.map

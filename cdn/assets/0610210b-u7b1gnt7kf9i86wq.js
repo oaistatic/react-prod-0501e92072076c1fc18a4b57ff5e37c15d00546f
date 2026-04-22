@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\angle A + \\angle B + \\angle C = 180^\\circ`,`A + B + C = 180`,`A + B + C = 180^\\circ`,`a + b + c = 180`,`\\alpha + \\beta + \\gamma = 180^\\circ`]}))();export{t as default};
+//# sourceMappingURL=0610210b-u7b1gnt7kf9i86wq.js.map

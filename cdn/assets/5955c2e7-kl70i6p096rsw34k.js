@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r=e((()=>{t=e=>e.id||e.url,n=({asset:e,messageId:t,turnExchangeId:n,conversationId:r,fallbackId:i,title:a})=>({mediaType:`image`,id:e.metadata?.generation?.gen_id??t??i??e.asset_pointer,archived:!1,transformationId:e.metadata?.generation?.gen_id??null,url:e.url,assetPointer:e.asset_pointer,thumbnail:null,width:e.width,height:e.height,title:a?.trim()||null,conversationId:r,messageId:t??void 0,turnExchangeId:n??void 0})}));export{r as n,n as r,t};
+//# sourceMappingURL=5955c2e7-kl70i6p096rsw34k.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ListMinus`,[[`path`,{d:`M11 12H3`,key:`51ecnj`}],[`path`,{d:`M16 6H3`,key:`1wxfjs`}],[`path`,{d:`M16 18H3`,key:`12xzn7`}],[`path`,{d:`M21 12h-6`,key:`bt1uis`}]])}));export{i as n,r as t};
+//# sourceMappingURL=5bee6711-ojwbekdmz17l6lsk.js.map

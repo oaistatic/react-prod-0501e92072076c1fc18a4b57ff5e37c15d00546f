@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`t_{1/2} = \\frac{0.693}{k}`,`t_{1/2}=\\frac{1}{k[A]_0}`,`t_{1/2}=\\frac{0.693}{k}=\\frac{0.693}{0.231}`,`\\boxed{t_{1/2} = \\frac{0.693}{k}}`]}))();export{t as default};
+//# sourceMappingURL=78aff28e-ofhnttqaxm2998b4.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`RockingChair`,[[`polyline`,{points:`3.5 2 6.5 12.5 18 12.5`,key:`y3iy52`}],[`line`,{x1:`9.5`,x2:`5.5`,y1:`12.5`,y2:`20`,key:`19vg5i`}],[`line`,{x1:`15`,x2:`18.5`,y1:`12.5`,y2:`20`,key:`1inpmv`}],[`path`,{d:`M2.75 18a13 13 0 0 0 18.5 0`,key:`1nquas`}]])}));export{i as n,r as t};
+//# sourceMappingURL=6dd0451f-fu8vtquowe7r1suz.js.map

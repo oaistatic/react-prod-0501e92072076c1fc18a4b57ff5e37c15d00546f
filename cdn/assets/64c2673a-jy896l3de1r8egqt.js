@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`y = y_0 + v_{0y} t - \\frac{1}{2} g t^2`,`y(t) = h + v_0\\sin(\\theta)t - \\frac{1}{2}gt^2`,`x(t) = v_0\\cos(\\theta)t`]}))();export{t as default};
+//# sourceMappingURL=64c2673a-jy896l3de1r8egqt.js.map

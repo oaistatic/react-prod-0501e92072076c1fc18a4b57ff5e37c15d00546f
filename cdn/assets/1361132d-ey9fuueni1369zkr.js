@@ -1,0 +1,1 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n=e((()=>{t=`/cdn/assets/sprites-wham-f4d4a57e.svg`}));export{n,t};

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\vec{a}\\cdot\\vec{b} = \\|\\vec{a}\\|\\|\\vec{b}\\|\\cos\\theta`,`\\mathbf{a}\\cdot\\mathbf{b} = |\\mathbf{a}||\\mathbf{b}|\\cos(\\theta)`,`\\cos\\theta = \\frac{\\vec a \\cdot \\vec b}{\\|\\vec a\\|\\|\\vec b\\|}`,`\\cos(\\theta) = \\frac{a\\cdot b}{|a||b|}`,`\\cos\\theta = \\frac{\\vec a\\cdot\\vec b}{\\|\\vec a\\|\\|\\vec b\\|}`]}))();export{t as default};
+//# sourceMappingURL=581b2437-jmjd94y0relct9mj.js.map

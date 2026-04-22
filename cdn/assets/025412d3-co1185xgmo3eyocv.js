@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Axe`,[[`path`,{d:`m14 12-8.5 8.5a2.12 2.12 0 1 1-3-3L11 9`,key:`csbz4o`}],[`path`,{d:`M15 13 9 7l4-4 6 6h3a8 8 0 0 1-7 7z`,key:`113wfo`}]])}));export{i as n,r as t};
+//# sourceMappingURL=025412d3-co1185xgmo3eyocv.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MegaphoneOff`,[[`path`,{d:`M9.26 9.26 3 11v3l14.14 3.14`,key:`3429n`}],[`path`,{d:`M21 15.34V6l-7.31 2.03`,key:`4o1dh8`}],[`path`,{d:`M11.6 16.8a3 3 0 1 1-5.8-1.6`,key:`1yl0tm`}],[`line`,{x1:`2`,x2:`22`,y1:`2`,y2:`22`,key:`a6p6uj`}]])}));export{i as n,r as t};
+//# sourceMappingURL=9fa3db69-fzm5puajzzonc877.js.map

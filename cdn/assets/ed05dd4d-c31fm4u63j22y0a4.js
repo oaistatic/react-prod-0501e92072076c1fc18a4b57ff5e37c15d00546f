@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Magnet`,[[`path`,{d:`m6 15-4-4 6.75-6.77a7.79 7.79 0 0 1 11 11L13 22l-4-4 6.39-6.36a2.14 2.14 0 0 0-3-3L6 15`,key:`1i3lhw`}],[`path`,{d:`m5 8 4 4`,key:`j6kj7e`}],[`path`,{d:`m12 15 4 4`,key:`lnac28`}]])}));export{i as n,r as t};
+//# sourceMappingURL=ed05dd4d-c31fm4u63j22y0a4.js.map

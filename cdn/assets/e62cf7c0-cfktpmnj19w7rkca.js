@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`y = e^{-kt}`,`y = y_0 \\exp(-kt)`,`y = 2e^{-0.5t}`,`y = e^{-t}`]}))();export{t as default};
+//# sourceMappingURL=e62cf7c0-cfktpmnj19w7rkca.js.map

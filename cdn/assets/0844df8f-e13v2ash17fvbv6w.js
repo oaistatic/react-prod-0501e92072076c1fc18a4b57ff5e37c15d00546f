@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Weight`,[[`circle`,{cx:`12`,cy:`5`,r:`3`,key:`rqqgnr`}],[`path`,{d:`M6.5 8a2 2 0 0 0-1.905 1.46L2.1 18.5A2 2 0 0 0 4 21h16a2 2 0 0 0 1.925-2.54L19.4 9.5A2 2 0 0 0 17.48 8Z`,key:`56o5sh`}]])}));export{i as n,r as t};
+//# sourceMappingURL=0844df8f-e13v2ash17fvbv6w.js.map

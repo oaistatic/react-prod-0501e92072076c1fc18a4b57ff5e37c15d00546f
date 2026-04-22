@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ConciergeBell`,[[`path`,{d:`M3 20a1 1 0 0 1-1-1v-1a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v1a1 1 0 0 1-1 1Z`,key:`1pvr1r`}],[`path`,{d:`M20 16a8 8 0 1 0-16 0`,key:`1pa543`}],[`path`,{d:`M12 4v4`,key:`1bq03y`}],[`path`,{d:`M10 4h4`,key:`1xpv9s`}]])}));export{i as n,r as t};
+//# sourceMappingURL=ea6e2627-ghpf21f1z5jq68dn.js.map

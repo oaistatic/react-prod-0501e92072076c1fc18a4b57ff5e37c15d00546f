@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{p as t}from"./39393d4a-b55umv99d6qupsfj.js";import{n,r}from"./6096e931-elif6op1yx8kzkw5.js";e((()=>{r(),t()}))();export{n as createPacketServices};
+//# sourceMappingURL=87a5ffb6-4cpxlrgpqkwxbel3.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FolderOpenDot`,[[`path`,{d:`m6 14 1.45-2.9A2 2 0 0 1 9.24 10H20a2 2 0 0 1 1.94 2.5l-1.55 6a2 2 0 0 1-1.94 1.5H4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h3.93a2 2 0 0 1 1.66.9l.82 1.2a2 2 0 0 0 1.66.9H18a2 2 0 0 1 2 2v2`,key:`1nmvlm`}],[`circle`,{cx:`14`,cy:`15`,r:`1`,key:`1gm4qj`}]])}));export{i as n,r as t};
+//# sourceMappingURL=12daa20a-b94ewkyhkiml2bww.js.map

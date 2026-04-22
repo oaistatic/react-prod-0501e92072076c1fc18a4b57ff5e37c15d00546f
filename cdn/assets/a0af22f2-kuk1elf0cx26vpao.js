@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r,i,a,o=e((()=>{t=window.location.origin+`/support`,n=`https://wa.me/message/DB7L3M6A4NOYA1`,r=`https://wa.me/message/7UNSEO7RBZLWI1`,i=function(e){return e.Cancel=`cancel`,e.Allow=`allow`,e}({}),a=function(e){return e.Authenticate=`authenticate`,e.LinkAccount=`link_account`,e}({})}));export{r as a,n as i,a as n,o,i as r,t};
+//# sourceMappingURL=a0af22f2-kuk1elf0cx26vpao.js.map

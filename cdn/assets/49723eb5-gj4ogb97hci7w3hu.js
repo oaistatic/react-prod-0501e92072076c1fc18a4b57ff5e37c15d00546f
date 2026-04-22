@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`triangle with parallel line through top vertex`,`triangle showing alternate interior angles diagram`,`proof that triangle angles sum to 180 diagram`,`triangle angle sum parallel line proof simple drawing`,`triangle angle sum proof`]}))();export{t as default};
+//# sourceMappingURL=49723eb5-gj4ogb97hci7w3hu.js.map

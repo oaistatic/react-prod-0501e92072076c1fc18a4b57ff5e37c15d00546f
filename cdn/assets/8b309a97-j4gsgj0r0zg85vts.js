@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ListCollapse`,[[`path`,{d:`m3 10 2.5-2.5L3 5`,key:`i6eama`}],[`path`,{d:`m3 19 2.5-2.5L3 14`,key:`w2gmor`}],[`path`,{d:`M10 6h11`,key:`c7qv1k`}],[`path`,{d:`M10 12h11`,key:`6m4ad9`}],[`path`,{d:`M10 18h11`,key:`11hvi2`}]])}));export{i as n,r as t};
+//# sourceMappingURL=8b309a97-j4gsgj0r0zg85vts.js.map

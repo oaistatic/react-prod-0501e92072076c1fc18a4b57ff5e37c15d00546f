@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ReceiptSwissFranc`,[[`path`,{d:`M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z`,key:`q3az6g`}],[`path`,{d:`M10 17V7h5`,key:`k7jq18`}],[`path`,{d:`M10 11h4`,key:`1i0mka`}],[`path`,{d:`M8 15h5`,key:`vxg57a`}]])}));export{i as n,r as t};
+//# sourceMappingURL=d0a8e3ee-nx2i2b2iuut6rxwm.js.map

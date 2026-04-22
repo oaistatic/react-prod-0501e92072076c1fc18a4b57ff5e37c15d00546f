@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ReplyAll`,[[`polyline`,{points:`7 17 2 12 7 7`,key:`t83bqg`}],[`polyline`,{points:`12 17 7 12 12 7`,key:`1g4ajm`}],[`path`,{d:`M22 18v-2a4 4 0 0 0-4-4H7`,key:`1fcyog`}]])}));export{i as n,r as t};
+//# sourceMappingURL=3e63ae35-bk5xcj9qrpsi7b0s.js.map

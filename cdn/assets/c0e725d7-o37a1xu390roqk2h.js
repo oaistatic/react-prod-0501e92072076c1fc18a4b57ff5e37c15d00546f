@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r,i,a,o,s,c,l=e((()=>{t=`webp`,n=1024,r=1536,i=`srgb`,a=`uchar`,o={width:1024,height:1536},s=`/cdn/assets/team-upsell-mjqpjoww.webp`,c={format:t,width:n,height:r,space:i,channels:3,depth:a,density:72,isProgressive:!1,isPalette:!0,bitsPerSample:4,paletteBitDepth:4,hasProfile:!1,hasAlpha:!1,autoOrient:o,src:s}}));export{c as n,l as t};
+//# sourceMappingURL=c0e725d7-o37a1xu390roqk2h.js.map

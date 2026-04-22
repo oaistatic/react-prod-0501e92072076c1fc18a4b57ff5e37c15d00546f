@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{$t as t,U as n,et as r}from"./2340486e-epv5pa20wdn92ya5.js";import{n as i,t as a}from"./47edf3d1-k97m3yovcvgyogwu.js";var o,s,c,l=e((async()=>{n(),await i(),o=r(),s=()=>[{title:`New Tab`}],c=t(function(){return(0,o.jsx)(a,{})})}));await e((async()=>{await l()}))();export{c as default,s as meta};
+//# sourceMappingURL=new-tab-page-oudjviny.js.map

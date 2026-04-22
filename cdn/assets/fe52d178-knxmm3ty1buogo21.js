@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Videotape`,[[`rect`,{width:`20`,height:`16`,x:`2`,y:`4`,rx:`2`,key:`18n3k1`}],[`path`,{d:`M2 8h20`,key:`d11cs7`}],[`circle`,{cx:`8`,cy:`14`,r:`2`,key:`1k2qr5`}],[`path`,{d:`M8 12h8`,key:`1wcyev`}],[`circle`,{cx:`16`,cy:`14`,r:`2`,key:`14k7lr`}]])}));export{i as n,r as t};
+//# sourceMappingURL=fe52d178-knxmm3ty1buogo21.js.map

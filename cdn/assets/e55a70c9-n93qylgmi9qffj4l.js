@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`BetweenHorizontalEnd`,[[`rect`,{width:`13`,height:`7`,x:`3`,y:`3`,rx:`1`,key:`11xb64`}],[`path`,{d:`m22 15-3-3 3-3`,key:`26chmm`}],[`rect`,{width:`13`,height:`7`,x:`3`,y:`14`,rx:`1`,key:`k6ky7n`}]])}));export{i as n,r as t};
+//# sourceMappingURL=e55a70c9-n93qylgmi9qffj4l.js.map

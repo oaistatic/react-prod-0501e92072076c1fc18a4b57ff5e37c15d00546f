@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`v = f\\lambda`,`\\nu = \\frac{c}{\\lambda}`,`v=flambda`,`v=lambdaf`,`flambda=v`,`lambdaf=v`,`f=v/lambda`,`lambda=v/f`]}))();export{t as default};
+//# sourceMappingURL=36f77620-oerfuht4c5b3in2k.js.map

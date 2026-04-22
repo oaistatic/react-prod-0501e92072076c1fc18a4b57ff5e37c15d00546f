@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MoveDiagonal2`,[[`path`,{d:`M19 13v6h-6`,key:`1hxl6d`}],[`path`,{d:`M5 11V5h6`,key:`12e2xe`}],[`path`,{d:`m5 5 14 14`,key:`11anup`}]])}));export{i as n,r as t};
+//# sourceMappingURL=a517414b-lhwjvguec0d6l8z3.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Divide`,[[`circle`,{cx:`12`,cy:`6`,r:`1`,key:`1bh7o1`}],[`line`,{x1:`5`,x2:`19`,y1:`12`,y2:`12`,key:`13b5wn`}],[`circle`,{cx:`12`,cy:`18`,r:`1`,key:`lqb9t5`}]])}));export{i as n,r as t};
+//# sourceMappingURL=895479bf-h17x50rr6gzx0laq.js.map

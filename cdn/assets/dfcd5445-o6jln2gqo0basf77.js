@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`VibrateOff`,[[`path`,{d:`m2 8 2 2-2 2 2 2-2 2`,key:`sv1b1`}],[`path`,{d:`m22 8-2 2 2 2-2 2 2 2`,key:`101i4y`}],[`path`,{d:`M8 8v10c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2`,key:`1hbad5`}],[`path`,{d:`M16 10.34V6c0-.55-.45-1-1-1h-4.34`,key:`1x5tf0`}],[`line`,{x1:`2`,x2:`22`,y1:`2`,y2:`22`,key:`a6p6uj`}]])}));export{i as n,r as t};
+//# sourceMappingURL=dfcd5445-o6jln2gqo0basf77.js.map

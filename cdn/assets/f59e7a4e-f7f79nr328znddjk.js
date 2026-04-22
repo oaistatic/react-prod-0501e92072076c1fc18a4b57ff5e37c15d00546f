@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Luggage`,[[`path`,{d:`M6 20a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2`,key:`1m57jg`}],[`path`,{d:`M8 18V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v14`,key:`1l99gc`}],[`path`,{d:`M10 20h4`,key:`ni2waw`}],[`circle`,{cx:`16`,cy:`20`,r:`2`,key:`1vifvg`}],[`circle`,{cx:`8`,cy:`20`,r:`2`,key:`ckkr5m`}]])}));export{i as n,r as t};
+//# sourceMappingURL=f59e7a4e-f7f79nr328znddjk.js.map

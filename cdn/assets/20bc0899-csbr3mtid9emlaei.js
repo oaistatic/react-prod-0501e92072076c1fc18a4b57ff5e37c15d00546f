@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SwitchCamera`,[[`path`,{d:`M11 19H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h5`,key:`mtk2lu`}],[`path`,{d:`M13 5h7a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-5`,key:`120jsl`}],[`circle`,{cx:`12`,cy:`12`,r:`3`,key:`1v7zrd`}],[`path`,{d:`m18 22-3-3 3-3`,key:`kgdoj7`}],[`path`,{d:`m6 2 3 3-3 3`,key:`1fnbkv`}]])}));export{i as n,r as t};
+//# sourceMappingURL=20bc0899-csbr3mtid9emlaei.js.map

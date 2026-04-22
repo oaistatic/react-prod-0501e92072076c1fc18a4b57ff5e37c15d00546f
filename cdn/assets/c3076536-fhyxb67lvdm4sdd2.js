@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ChartNoAxesGantt`,[[`path`,{d:`M8 6h10`,key:`9lnwnk`}],[`path`,{d:`M6 12h9`,key:`1g9pqf`}],[`path`,{d:`M11 18h7`,key:`c8dzvl`}]])}));export{i as n,r as t};
+//# sourceMappingURL=c3076536-fhyxb67lvdm4sdd2.js.map

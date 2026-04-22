@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r,i,a,o=e((()=>{t=[`q`,`deltaT`,`m`,`c`],n=2.5,r=1.4,i=30,a=()=>({m:n,c:r,deltaT:i,q:n*r*i,solveFor:`q`})}));export{a as n,o as r,t};
+//# sourceMappingURL=5cde0f12-io1on3hkv16kdpya.js.map

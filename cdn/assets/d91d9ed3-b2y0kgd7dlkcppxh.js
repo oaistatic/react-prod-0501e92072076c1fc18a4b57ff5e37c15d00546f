@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`UmbrellaOff`,[[`path`,{d:`M12 2v1`,key:`11qlp1`}],[`path`,{d:`M15.5 21a1.85 1.85 0 0 1-3.5-1v-8H2a10 10 0 0 1 3.428-6.575`,key:`eki10q`}],[`path`,{d:`M17.5 12H22A10 10 0 0 0 9.004 3.455`,key:`n2ayka`}],[`path`,{d:`m2 2 20 20`,key:`1ooewy`}]])}));export{i as n,r as t};
+//# sourceMappingURL=d91d9ed3-b2y0kgd7dlkcppxh.js.map

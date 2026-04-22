@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{a as t,i as n,n as r,r as i}from"./c38c3e3a-n9v6u39cywp4cb70.js";e((()=>{i()}))();export{n as default,r as handle,t as meta};
+//# sourceMappingURL=k12-verification-m8to4das.js.map

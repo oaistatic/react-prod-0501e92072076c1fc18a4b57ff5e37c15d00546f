@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FileMusic`,[[`path`,{d:`M10.5 22H18a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v8.4`,key:`1d3kfm`}],[`path`,{d:`M8 18v-7.7L16 9v7`,key:`1oie6o`}],[`circle`,{cx:`14`,cy:`16`,r:`2`,key:`1bzzi3`}],[`circle`,{cx:`6`,cy:`18`,r:`2`,key:`1fncim`}]])}));export{i as n,r as t};
+//# sourceMappingURL=a3e9d677-l5yhr2yi7adn2wz0.js.map

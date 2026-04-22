@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ArrowUpToLine`,[[`path`,{d:`M5 3h14`,key:`7usisc`}],[`path`,{d:`m18 13-6-6-6 6`,key:`1kf1n9`}],[`path`,{d:`M12 7v14`,key:`1akyts`}]])}));export{i as n,r as t};
+//# sourceMappingURL=3fdf1ccc-f7c4s8fv9e9gdmtb.js.map

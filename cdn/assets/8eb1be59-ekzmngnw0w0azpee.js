@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CircleGauge`,[[`path`,{d:`M15.6 2.7a10 10 0 1 0 5.7 5.7`,key:`1e0p6d`}],[`circle`,{cx:`12`,cy:`12`,r:`2`,key:`1c9p78`}],[`path`,{d:`M13.4 10.6 19 5`,key:`1kr7tw`}]])}));export{i as n,r as t};
+//# sourceMappingURL=8eb1be59-ekzmngnw0w0azpee.js.map

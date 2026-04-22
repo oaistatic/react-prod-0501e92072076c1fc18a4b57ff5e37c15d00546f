@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Popsicle`,[[`path`,{d:`M18.6 14.4c.8-.8.8-2 0-2.8l-8.1-8.1a4.95 4.95 0 1 0-7.1 7.1l8.1 8.1c.9.7 2.1.7 2.9-.1Z`,key:`1o68ps`}],[`path`,{d:`m22 22-5.5-5.5`,key:`17o70y`}]])}));export{i as n,r as t};
+//# sourceMappingURL=39a63441-deskmepamdaiar6k.js.map

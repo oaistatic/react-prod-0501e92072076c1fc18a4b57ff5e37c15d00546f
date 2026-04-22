@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\text{Area} = w \\times l`,`\\text{Area} = l \\times w`,`A = wl`,`A = lw`,`w \\times l = \\text{Area}`,`l \\times w = \\text{Area}`,`wl = A`,`lw = A`,`wl`,`rectangle area`]}))();export{t as default};
+//# sourceMappingURL=5bf34893-cim5gew4ydj9bpld.js.map

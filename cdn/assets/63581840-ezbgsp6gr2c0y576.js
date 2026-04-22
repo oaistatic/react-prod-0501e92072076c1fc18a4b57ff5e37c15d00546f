@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SquareSplitVertical`,[[`path`,{d:`M5 8V5c0-1 1-2 2-2h10c1 0 2 1 2 2v3`,key:`1pi83i`}],[`path`,{d:`M19 16v3c0 1-1 2-2 2H7c-1 0-2-1-2-2v-3`,key:`ido5k7`}],[`line`,{x1:`4`,x2:`20`,y1:`12`,y2:`12`,key:`1e0a9i`}]])}));export{i as n,r as t};
+//# sourceMappingURL=63581840-ezbgsp6gr2c0y576.js.map

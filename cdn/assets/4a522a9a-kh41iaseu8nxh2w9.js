@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SendToBack`,[[`rect`,{x:`14`,y:`14`,width:`8`,height:`8`,rx:`2`,key:`1b0bso`}],[`rect`,{x:`2`,y:`2`,width:`8`,height:`8`,rx:`2`,key:`1x09vl`}],[`path`,{d:`M7 14v1a2 2 0 0 0 2 2h1`,key:`pao6x6`}],[`path`,{d:`M14 7h1a2 2 0 0 1 2 2v1`,key:`19tdru`}]])}));export{i as n,r as t};
+//# sourceMappingURL=4a522a9a-kh41iaseu8nxh2w9.js.map

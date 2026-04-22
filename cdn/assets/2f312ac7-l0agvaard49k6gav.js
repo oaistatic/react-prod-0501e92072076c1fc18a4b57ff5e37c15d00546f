@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`m\\lambda = d\\sin\\theta`,`d\\sin\\theta = n\\lambda`]}))();export{t as default};
+//# sourceMappingURL=2f312ac7-l0agvaard49k6gav.js.map

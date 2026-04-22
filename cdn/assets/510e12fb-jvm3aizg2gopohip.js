@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`JapaneseYen`,[[`path`,{d:`M12 9.5V21m0-11.5L6 3m6 6.5L18 3`,key:`2ej80x`}],[`path`,{d:`M6 15h12`,key:`1hwgt5`}],[`path`,{d:`M6 11h12`,key:`wf4gp6`}]])}));export{i as n,r as t};
+//# sourceMappingURL=510e12fb-jvm3aizg2gopohip.js.map

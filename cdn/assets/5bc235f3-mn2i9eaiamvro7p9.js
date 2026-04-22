@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Ampersand`,[[`path`,{d:`M17.5 12c0 4.4-3.6 8-8 8A4.5 4.5 0 0 1 5 15.5c0-6 8-4 8-8.5a3 3 0 1 0-6 0c0 3 2.5 8.5 12 13`,key:`1o9ehi`}],[`path`,{d:`M16 12h3`,key:`4uvgyw`}]])}));export{i as n,r as t};
+//# sourceMappingURL=5bc235f3-mn2i9eaiamvro7p9.js.map

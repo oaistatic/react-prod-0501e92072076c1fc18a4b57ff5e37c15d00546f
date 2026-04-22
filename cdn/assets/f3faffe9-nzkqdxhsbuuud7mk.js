@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Mails`,[[`rect`,{width:`16`,height:`13`,x:`6`,y:`4`,rx:`2`,key:`1drq3f`}],[`path`,{d:`m22 7-7.1 3.78c-.57.3-1.23.3-1.8 0L6 7`,key:`xn252p`}],[`path`,{d:`M2 8v11c0 1.1.9 2 2 2h14`,key:`n13cji`}]])}));export{i as n,r as t};
+//# sourceMappingURL=f3faffe9-nzkqdxhsbuuud7mk.js.map

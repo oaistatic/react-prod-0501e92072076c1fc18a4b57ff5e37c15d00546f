@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`BetweenVerticalEnd`,[[`rect`,{width:`7`,height:`13`,x:`3`,y:`3`,rx:`1`,key:`1fdu0f`}],[`path`,{d:`m9 22 3-3 3 3`,key:`17z65a`}],[`rect`,{width:`7`,height:`13`,x:`14`,y:`3`,rx:`1`,key:`1squn4`}]])}));export{i as n,r as t};
+//# sourceMappingURL=89afcbd8-nzknkuqosxmlxrx5.js.map

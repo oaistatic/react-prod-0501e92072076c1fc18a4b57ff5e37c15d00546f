@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\Delta = b^2 - 4ac`,`D = b^2 - 4ac`,`discriminant = b^2 - 4ac`,`b^2 - 4ac = \\Delta`,`b^2 - 4ac = D`,`\\Delta = b^2 - 4ac > 0`]}))();export{t as default};
+//# sourceMappingURL=8cb61b61-ge5jm914po3bq1v9.js.map

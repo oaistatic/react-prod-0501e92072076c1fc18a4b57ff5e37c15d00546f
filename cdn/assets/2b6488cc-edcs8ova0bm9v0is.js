@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`AlignHorizontalSpaceBetween`,[[`rect`,{width:`6`,height:`14`,x:`3`,y:`5`,rx:`2`,key:`j77dae`}],[`rect`,{width:`6`,height:`10`,x:`15`,y:`7`,rx:`2`,key:`bq30hj`}],[`path`,{d:`M3 2v20`,key:`1d2pfg`}],[`path`,{d:`M21 2v20`,key:`p059bm`}]])}));export{i as n,r as t};
+//# sourceMappingURL=2b6488cc-edcs8ova0bm9v0is.js.map

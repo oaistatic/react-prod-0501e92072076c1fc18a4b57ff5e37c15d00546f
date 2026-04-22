@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Bed`,[[`path`,{d:`M2 4v16`,key:`vw9hq8`}],[`path`,{d:`M2 8h18a2 2 0 0 1 2 2v10`,key:`1dgv2r`}],[`path`,{d:`M2 17h20`,key:`18nfp3`}],[`path`,{d:`M6 8v9`,key:`1yriud`}]])}));export{i as n,r as t};
+//# sourceMappingURL=c5052532-lky8n69tsv74hn9o.js.map

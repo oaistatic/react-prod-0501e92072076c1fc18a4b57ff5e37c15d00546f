@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Gamepad`,[[`line`,{x1:`6`,x2:`10`,y1:`12`,y2:`12`,key:`161bw2`}],[`line`,{x1:`8`,x2:`8`,y1:`10`,y2:`14`,key:`1i6ji0`}],[`line`,{x1:`15`,x2:`15.01`,y1:`13`,y2:`13`,key:`dqpgro`}],[`line`,{x1:`18`,x2:`18.01`,y1:`11`,y2:`11`,key:`meh2c`}],[`rect`,{width:`20`,height:`12`,x:`2`,y:`6`,rx:`2`,key:`9lu3g6`}]])}));export{i as n,r as t};
+//# sourceMappingURL=54dba807-df3i590wonjg9ert.js.map

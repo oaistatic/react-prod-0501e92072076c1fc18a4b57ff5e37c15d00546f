@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`a^2 - b^2 = (a - b)(a + b)`,`(x + y)(x - y) = x^2 - y^2`]}))();export{t as default};
+//# sourceMappingURL=ffa8522b-lwvt8mucj53abc7l.js.map

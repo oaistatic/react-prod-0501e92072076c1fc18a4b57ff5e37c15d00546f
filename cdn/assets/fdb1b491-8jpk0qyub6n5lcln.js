@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`F_g = mg`,`F_G = m g`,`w = mg`,`F_g = m\\,g`,`P = m \\cdot g`]}))();export{t as default};
+//# sourceMappingURL=fdb1b491-8jpk0qyub6n5lcln.js.map

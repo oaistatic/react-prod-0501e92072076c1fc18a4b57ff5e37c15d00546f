@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`PersonStanding`,[[`circle`,{cx:`12`,cy:`5`,r:`1`,key:`gxeob9`}],[`path`,{d:`m9 20 3-6 3 6`,key:`se2kox`}],[`path`,{d:`m6 8 6 2 6-2`,key:`4o3us4`}],[`path`,{d:`M12 10v4`,key:`1kjpxc`}]])}));export{i as n,r as t};
+//# sourceMappingURL=d98dc3db-ivqj6cmktmvh71pl.js.map

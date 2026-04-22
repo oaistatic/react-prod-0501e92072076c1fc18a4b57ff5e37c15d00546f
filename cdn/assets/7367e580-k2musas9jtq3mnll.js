@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{et as t,tt as n}from"./2340486e-epv5pa20wdn92ya5.js";import{n as r,t as i}from"./50217878-g3kn403hht308xei.js";function a(e){"use forget";let t=(0,o.c)(2),{data:n}=e,r=n?.ctas,a;return t[0]===r?a=t[1]:(a=(0,s.jsx)(`div`,{className:`flex w-full justify-center`,children:(0,s.jsx)(i,{data:r,buttonWidthClassName:`w-fit`})}),t[0]=r,t[1]=a),a}var o,s;e((()=>{o=n(),r(),s=t()}))();export{a as default};
+//# sourceMappingURL=7367e580-k2musas9jtq3mnll.js.map

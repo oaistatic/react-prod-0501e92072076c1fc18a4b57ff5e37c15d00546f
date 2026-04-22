@@ -1,0 +1,1 @@
+import{n as e,t}from"./ce635c4e-nydqjnwsl13pf2gi.js";t();export{e as shell};

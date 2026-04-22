@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-gjb4o5hex8ccu4v5.js";import{on as n}from"./2340486e-epv5pa20wdn92ya5.js";import{NJ as r,kJ as i}from"./4813494d-7wk99m1ly4swd636.js";import{n as a,t as o}from"./38b1cb71-f1iou3huhbhq6d12.js";function s(){let e=i();return(0,c.useEffect)(()=>{e&&(o.setCurrentAccount(e),o.init())},[e]),null}var c;e((()=>{a(),r(),c=t(n())}))();export{s as FannyPackInitializer};
+//# sourceMappingURL=5a741dc9-e0wherhjmd1tzfjk.js.map

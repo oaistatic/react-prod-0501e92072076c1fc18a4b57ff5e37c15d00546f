@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-gjb4o5hex8ccu4v5.js";import{$t as n,Kt as r,U as i,et as a,on as o}from"./2340486e-epv5pa20wdn92ya5.js";import{n as s,t as c}from"./af004db9-nin246z457eo9jdd.js";var l,u,d,f=e((()=>{i(),s(),l=t(o()),u=a(),d=n(function(){let e=r();return(0,l.useEffect)(()=>{window.close(),window.setTimeout(()=>{e(`/finance`)},150)},[e]),(0,u.jsx)(`div`,{className:`flex min-h-[40vh] items-center justify-center`,children:(0,u.jsx)(c,{})})})}));e((()=>{f()}))();export{d as default};
+//# sourceMappingURL=ledger.plaid.oauth_redirect-cmj1s22b.js.map

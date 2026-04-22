@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";function t(e,t){if(t==null||!Number.isFinite(t)||t<0)return null;let r=t,i=0;for(;r>=1024&&i<n.length-1;)r/=1024,i+=1;return`${i===0||Number.isInteger(r)?e.formatNumber(r,{minimumFractionDigits:0,maximumFractionDigits:0}):e.formatNumber(r,{minimumSignificantDigits:3,maximumSignificantDigits:3})} ${n[i]}`}var n,r=e((()=>{n=[`B`,`KB`,`MB`,`GB`,`TB`]}));export{r as n,t};
+//# sourceMappingURL=97399d13-nihwljeyyd0beilj.js.map

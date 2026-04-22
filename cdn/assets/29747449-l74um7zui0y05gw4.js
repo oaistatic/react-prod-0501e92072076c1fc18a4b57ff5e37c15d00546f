@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Umbrella`,[[`path`,{d:`M22 12a10.06 10.06 1 0 0-20 0Z`,key:`1teyop`}],[`path`,{d:`M12 12v8a2 2 0 0 0 4 0`,key:`ulpmoc`}],[`path`,{d:`M12 2v1`,key:`11qlp1`}]])}));export{i as n,r as t};
+//# sourceMappingURL=29747449-l74um7zui0y05gw4.js.map

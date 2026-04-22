@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`Var(X)=E(X^2)-[E(X)]^2`,`Var(X)=E(X^2)-(E(X))^2`,`Var(X)=E[X^2]-(E[X])^2`,`Var(X)=E[(X-\\mu)^2]`,`\\mathrm{Var}(Z)=\\mathbb{E}[Z^2]-(\\mathbb{E}[Z])^2`,`\\mathrm{Var}(aX+b)=a^2\\mathrm{Var}(X)`,`Var(X) = p(1-p)`,`Var(X)=np(1-p)`,`Var(X)=\\frac{(b-a)^2}{12}`,`Var(X)=\\lambda`,`Var(\\bar{X})=\\frac{\\sigma^2}{n}`,`Var(Y)=a^2 Var(X)`,`Var(\\Delta)=2\\sigma^2(1-r)`]}))();export{t as default};
+//# sourceMappingURL=65354c67-istzvdbec4wxyurx.js.map

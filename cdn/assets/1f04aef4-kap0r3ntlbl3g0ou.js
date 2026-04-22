@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Unlink2`,[[`path`,{d:`M15 7h2a5 5 0 0 1 0 10h-2m-6 0H7A5 5 0 0 1 7 7h2`,key:`1re2ne`}]])}));export{i as n,r as t};
+//# sourceMappingURL=1f04aef4-kap0r3ntlbl3g0ou.js.map

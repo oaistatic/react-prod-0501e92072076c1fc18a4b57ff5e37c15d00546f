@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`LampDesk`,[[`path`,{d:`m14 5-3 3 2 7 8-8-7-2Z`,key:`1b0msb`}],[`path`,{d:`m14 5-3 3-3-3 3-3 3 3Z`,key:`1uemms`}],[`path`,{d:`M9.5 6.5 4 12l3 6`,key:`1bx08v`}],[`path`,{d:`M3 22v-2c0-1.1.9-2 2-2h4a2 2 0 0 1 2 2v2H3Z`,key:`wap775`}]])}));export{i as n,r as t};
+//# sourceMappingURL=ac90d7d3-il1bcbsoxv0xtrcy.js.map

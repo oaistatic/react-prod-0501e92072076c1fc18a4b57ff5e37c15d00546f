@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`(a+b)^2 = a^2 + 2ab + b^2`,`(x-y)^2 = x^2 - 2xy + y^2`]}))();export{t as default};
+//# sourceMappingURL=078c28bb-folkgx5uj6k49vdg.js.map

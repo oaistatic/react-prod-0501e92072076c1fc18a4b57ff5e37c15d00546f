@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{p as t}from"./39393d4a-b55umv99d6qupsfj.js";import{n,r}from"./d3757f73-ktom1cr3id865nph.js";e((()=>{r(),t()}))();export{n as createInfoServices};
+//# sourceMappingURL=6386bdb2-no815ts9ncxrv9nk.js.map

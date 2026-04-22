@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`TramFront`,[[`rect`,{width:`16`,height:`16`,x:`4`,y:`3`,rx:`2`,key:`1wxw4b`}],[`path`,{d:`M4 11h16`,key:`mpoxn0`}],[`path`,{d:`M12 3v8`,key:`1h2ygw`}],[`path`,{d:`m8 19-2 3`,key:`13i0xs`}],[`path`,{d:`m18 22-2-3`,key:`1p0ohu`}],[`path`,{d:`M8 15h.01`,key:`a7atzg`}],[`path`,{d:`M16 15h.01`,key:`rnfrdf`}]])}));export{i as n,r as t};
+//# sourceMappingURL=037492ef-4n52n0t9phai70pm.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`Y = C + I + G`,`Y = C + I + G + (X - M)`,`Y = C + I + G + X - M`,`Y = C + I + G + (Ex - Im)`,`GDP = C + I + G + (X - M)`,`GDP = C + I + G + NX`]}))();export{t as default};
+//# sourceMappingURL=cdfb772e-dwpgac0yxhdhze84.js.map

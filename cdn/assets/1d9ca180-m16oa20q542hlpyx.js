@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`WholeWord`,[[`circle`,{cx:`7`,cy:`12`,r:`3`,key:`12clwm`}],[`path`,{d:`M10 9v6`,key:`17i7lo`}],[`circle`,{cx:`17`,cy:`12`,r:`3`,key:`gl7c2s`}],[`path`,{d:`M14 7v8`,key:`dl84cr`}],[`path`,{d:`M22 17v1c0 .5-.5 1-1 1H3c-.5 0-1-.5-1-1v-1`,key:`lt2kga`}]])}));export{i as n,r as t};
+//# sourceMappingURL=1d9ca180-m16oa20q542hlpyx.js.map

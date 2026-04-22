@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FolderGit`,[[`circle`,{cx:`12`,cy:`13`,r:`2`,key:`1c1ljs`}],[`path`,{d:`M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z`,key:`1kt360`}],[`path`,{d:`M14 13h3`,key:`1dgedf`}],[`path`,{d:`M7 13h3`,key:`1pygq7`}]])}));export{i as n,r as t};
+//# sourceMappingURL=b6d558b7-in0eu6r653t3ojro.js.map

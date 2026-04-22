@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`(n - 2) \\times 180^\\circ`,`S_n = (n - 2) \\cdot 180^\\circ`,`S_n = (n - 2)(180^\\circ)`,`S_n=(n-2)\\cdot(180)`,`180^\\circ(n-2)`]}))();export{t as default};
+//# sourceMappingURL=fa48dd4d-jyma9g62pb9mqfve.js.map

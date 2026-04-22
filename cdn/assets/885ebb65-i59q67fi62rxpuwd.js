@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FlagOff`,[[`path`,{d:`M8 2c3 0 5 2 8 2s4-1 4-1v11`,key:`9rwyz9`}],[`path`,{d:`M4 22V4`,key:`1plyxx`}],[`path`,{d:`M4 15s1-1 4-1 5 2 8 2`,key:`1myooe`}],[`line`,{x1:`2`,x2:`22`,y1:`2`,y2:`22`,key:`a6p6uj`}]])}));export{i as n,r as t};
+//# sourceMappingURL=885ebb65-i59q67fi62rxpuwd.js.map

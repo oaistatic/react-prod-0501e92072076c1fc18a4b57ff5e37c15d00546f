@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`LampWallDown`,[[`path`,{d:`M11 13h6l3 7H8l3-7Z`,key:`9n3qlo`}],[`path`,{d:`M14 13V8a2 2 0 0 0-2-2H8`,key:`1hu4hb`}],[`path`,{d:`M4 9h2a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2H4v6Z`,key:`s053bc`}]])}));export{i as n,r as t};
+//# sourceMappingURL=1b57db17-dahc7gf6l2wenot9.js.map

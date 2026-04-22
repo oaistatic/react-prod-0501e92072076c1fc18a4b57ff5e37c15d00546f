@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{i as t,n,r}from"./371da970-i4mw41pg3rzr7p1z.js";await e((async()=>{await t()}))();export{n as clientLoader,r as default};
+//# sourceMappingURL=g._gizmoSlug.project-cubi6xkz.js.map

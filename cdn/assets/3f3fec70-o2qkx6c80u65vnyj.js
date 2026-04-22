@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CloudMoonRain`,[[`path`,{d:`M10.188 8.5A6 6 0 0 1 16 4a1 1 0 0 0 6 6 6 6 0 0 1-3 5.197`,key:`erj67n`}],[`path`,{d:`M11 20v2`,key:`174qtz`}],[`path`,{d:`M3 20a5 5 0 1 1 8.9-4H13a3 3 0 0 1 2 5.24`,key:`1qmrp3`}],[`path`,{d:`M7 19v2`,key:`12npes`}]])}));export{i as n,r as t};
+//# sourceMappingURL=3f3fec70-o2qkx6c80u65vnyj.js.map

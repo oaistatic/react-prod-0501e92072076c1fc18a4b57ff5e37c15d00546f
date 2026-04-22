@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`StepBack`,[[`line`,{x1:`18`,x2:`18`,y1:`20`,y2:`4`,key:`cun8e5`}],[`polygon`,{points:`14,20 4,12 14,4`,key:`ypakod`}]])}));export{i as n,r as t};
+//# sourceMappingURL=0d3da701-l34u005gvsskgo5l.js.map

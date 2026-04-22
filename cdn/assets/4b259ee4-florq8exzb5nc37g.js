@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Cuboid`,[[`path`,{d:`m21.12 6.4-6.05-4.06a2 2 0 0 0-2.17-.05L2.95 8.41a2 2 0 0 0-.95 1.7v5.82a2 2 0 0 0 .88 1.66l6.05 4.07a2 2 0 0 0 2.17.05l9.95-6.12a2 2 0 0 0 .95-1.7V8.06a2 2 0 0 0-.88-1.66Z`,key:`1u2ovd`}],[`path`,{d:`M10 22v-8L2.25 9.15`,key:`11pn4q`}],[`path`,{d:`m10 14 11.77-6.87`,key:`1kt1wh`}]])}));export{i as n,r as t};
+//# sourceMappingURL=4b259ee4-florq8exzb5nc37g.js.map

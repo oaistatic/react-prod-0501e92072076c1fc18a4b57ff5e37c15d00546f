@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FlipHorizontal2`,[[`path`,{d:`m3 7 5 5-5 5V7`,key:`couhi7`}],[`path`,{d:`m21 7-5 5 5 5V7`,key:`6ouia7`}],[`path`,{d:`M12 20v2`,key:`1lh1kg`}],[`path`,{d:`M12 14v2`,key:`8jcxud`}],[`path`,{d:`M12 8v2`,key:`1woqiv`}],[`path`,{d:`M12 2v2`,key:`tus03m`}]])}));export{i as n,r as t};
+//# sourceMappingURL=1c6a4034-ia5u9ml8zg0spcny.js.map

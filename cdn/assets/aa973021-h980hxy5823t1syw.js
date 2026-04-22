@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Computer`,[[`rect`,{width:`14`,height:`8`,x:`5`,y:`2`,rx:`2`,key:`wc9tft`}],[`rect`,{width:`20`,height:`8`,x:`2`,y:`14`,rx:`2`,key:`w68u3i`}],[`path`,{d:`M6 18h2`,key:`rwmk9e`}],[`path`,{d:`M12 18h6`,key:`aqd8w3`}]])}));export{i as n,r as t};
+//# sourceMappingURL=aa973021-h980hxy5823t1syw.js.map

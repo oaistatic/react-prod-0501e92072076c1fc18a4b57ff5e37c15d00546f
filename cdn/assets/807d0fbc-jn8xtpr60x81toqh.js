@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Flag`,[[`path`,{d:`M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z`,key:`i9b6wo`}],[`line`,{x1:`4`,x2:`4`,y1:`22`,y2:`15`,key:`1cm3nv`}]])}));export{i as n,r as t};
+//# sourceMappingURL=807d0fbc-jn8xtpr60x81toqh.js.map

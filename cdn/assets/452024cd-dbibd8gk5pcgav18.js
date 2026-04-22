@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ArrowDownAZ`,[[`path`,{d:`m3 16 4 4 4-4`,key:`1co6wj`}],[`path`,{d:`M7 20V4`,key:`1yoxec`}],[`path`,{d:`M20 8h-5`,key:`1vsyxs`}],[`path`,{d:`M15 10V6.5a2.5 2.5 0 0 1 5 0V10`,key:`ag13bf`}],[`path`,{d:`M15 14h5l-5 6h5`,key:`ur5jdg`}]])}));export{i as n,r as t};
+//# sourceMappingURL=452024cd-dbibd8gk5pcgav18.js.map

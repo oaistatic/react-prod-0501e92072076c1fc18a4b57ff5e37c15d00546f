@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`IndentDecrease`,[[`path`,{d:`M21 12H11`,key:`wd7e0v`}],[`path`,{d:`M21 18H11`,key:`4wu86t`}],[`path`,{d:`M21 6H11`,key:`6dy1d6`}],[`path`,{d:`m7 8-4 4 4 4`,key:`o5hrat`}]])}));export{i as n,r as t};
+//# sourceMappingURL=69b918ef-fmozv94crj9zel1e.js.map

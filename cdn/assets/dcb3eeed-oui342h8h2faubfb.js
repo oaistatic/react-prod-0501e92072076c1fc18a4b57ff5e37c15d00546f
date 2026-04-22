@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Captions`,[[`rect`,{width:`18`,height:`14`,x:`3`,y:`5`,rx:`2`,ry:`2`,key:`12ruh7`}],[`path`,{d:`M7 15h4M15 15h2M7 11h2M13 11h4`,key:`1ueiar`}]])}));export{i as n,r as t};
+//# sourceMappingURL=dcb3eeed-oui342h8h2faubfb.js.map

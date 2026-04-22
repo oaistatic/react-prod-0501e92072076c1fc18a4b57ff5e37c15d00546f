@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`(f \\circ g)(x) = f(g(x))`,`(g \\circ f)(x) = g(f(x))`]}))();export{t as default};
+//# sourceMappingURL=8f2228da-o41g4e1h813sqci5.js.map

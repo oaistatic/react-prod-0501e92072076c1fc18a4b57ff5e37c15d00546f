@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MessageSquareDot`,[[`path`,{d:`M11.7 3H5a2 2 0 0 0-2 2v16l4-4h12a2 2 0 0 0 2-2v-2.7`,key:`uodpkb`}],[`circle`,{cx:`18`,cy:`6`,r:`3`,key:`1h7g24`}]])}));export{i as n,r as t};
+//# sourceMappingURL=751e1f3b-gpn7ethr08w2763p.js.map

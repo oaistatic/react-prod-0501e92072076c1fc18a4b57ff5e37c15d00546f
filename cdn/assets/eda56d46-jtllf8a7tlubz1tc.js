@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`DoorClosed`,[[`path`,{d:`M18 20V6a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v14`,key:`36qu9e`}],[`path`,{d:`M2 20h20`,key:`owomy5`}],[`path`,{d:`M14 12v.01`,key:`xfcn54`}]])}));export{i as n,r as t};
+//# sourceMappingURL=eda56d46-jtllf8a7tlubz1tc.js.map

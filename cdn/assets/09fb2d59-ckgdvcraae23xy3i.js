@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ArrowDownToDot`,[[`path`,{d:`M12 2v14`,key:`jyx4ut`}],[`path`,{d:`m19 9-7 7-7-7`,key:`1oe3oy`}],[`circle`,{cx:`12`,cy:`21`,r:`1`,key:`o0uj5v`}]])}));export{i as n,r as t};
+//# sourceMappingURL=09fb2d59-ckgdvcraae23xy3i.js.map

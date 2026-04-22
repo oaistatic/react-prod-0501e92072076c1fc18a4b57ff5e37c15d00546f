@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`AlignVerticalDistributeCenter`,[[`path`,{d:`M22 17h-3`,key:`1lwga1`}],[`path`,{d:`M22 7h-5`,key:`o2endc`}],[`path`,{d:`M5 17H2`,key:`1gx9xc`}],[`path`,{d:`M7 7H2`,key:`6bq26l`}],[`rect`,{x:`5`,y:`14`,width:`14`,height:`6`,rx:`2`,key:`1qrzuf`}],[`rect`,{x:`7`,y:`4`,width:`10`,height:`6`,rx:`2`,key:`we8e9z`}]])}));export{i as n,r as t};
+//# sourceMappingURL=1a3798c6-djhvhxmehmgz3nqx.js.map

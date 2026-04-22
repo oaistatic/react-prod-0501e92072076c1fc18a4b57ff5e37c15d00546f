@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CookingPot`,[[`path`,{d:`M2 12h20`,key:`9i4pu4`}],[`path`,{d:`M20 12v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-8`,key:`u0tga0`}],[`path`,{d:`m4 8 16-4`,key:`16g0ng`}],[`path`,{d:`m8.86 6.78-.45-1.81a2 2 0 0 1 1.45-2.43l1.94-.48a2 2 0 0 1 2.43 1.46l.45 1.8`,key:`12cejc`}]])}));export{i as n,r as t};
+//# sourceMappingURL=0be9caa0-d2sm7qycxvlncn6u.js.map

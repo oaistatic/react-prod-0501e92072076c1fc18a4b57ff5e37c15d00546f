@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\frac{dN}{dt} = rN\\left(1 - \\frac{N}{K}\\right)`,`dN/dt = rN(1 - N/K)`,`\\frac{dP}{dt} = rP\\left(1 - \\frac{P}{K}\\right)`,`logistic population growth`,`logistic growth model`,`population growth with carrying capacity`]}))();export{t as default};
+//# sourceMappingURL=08b67efb-ndp80bvq1l8sp2b2.js.map

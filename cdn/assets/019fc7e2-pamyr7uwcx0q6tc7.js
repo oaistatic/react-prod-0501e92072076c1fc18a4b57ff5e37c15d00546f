@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`BookText`,[[`path`,{d:`M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20`,key:`k3hazp`}],[`path`,{d:`M8 11h8`,key:`vwpz6n`}],[`path`,{d:`M8 7h6`,key:`1f0q6e`}]])}));export{i as n,r as t};
+//# sourceMappingURL=019fc7e2-pamyr7uwcx0q6tc7.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`IterationCcw`,[[`path`,{d:`M20 10c0-4.4-3.6-8-8-8s-8 3.6-8 8 3.6 8 8 8h8`,key:`4znkd0`}],[`polyline`,{points:`16 14 20 18 16 22`,key:`11njsm`}]])}));export{i as n,r as t};
+//# sourceMappingURL=37abc0c0-dsdd07fjv92i4lbc.js.map

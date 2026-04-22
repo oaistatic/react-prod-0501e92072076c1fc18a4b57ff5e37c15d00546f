@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MessagesSquare`,[[`path`,{d:`M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2z`,key:`p1xzt8`}],[`path`,{d:`M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1`,key:`1cx29u`}]])}));export{i as n,r as t};
+//# sourceMappingURL=58d369fd-evfq24ntbfq6ydos.js.map

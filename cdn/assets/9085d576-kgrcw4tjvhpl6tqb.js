@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";function t(e){return`${n}${e}`}var n,r=e((()=>{n=window.location.origin+`/canvas/shared/`}));export{t as n,r,n as t};
+//# sourceMappingURL=9085d576-kgrcw4tjvhpl6tqb.js.map

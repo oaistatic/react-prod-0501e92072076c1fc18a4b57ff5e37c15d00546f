@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\frac{V_1}{T_1} = \\frac{V_2}{T_2}`,`V_1/T_1 = V_2/T_2`,`v1/t1=v2/t2`,`v2/t2=v1/t1`,`v/t=k`,`k=v/t`,`v=kt`,`kt=v`]}))();export{t as default};
+//# sourceMappingURL=8ce44076-g54q245ecq71amoi.js.map

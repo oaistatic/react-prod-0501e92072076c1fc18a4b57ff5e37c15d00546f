@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./d2ea7f17-blkq6lh5q3ma3svz.js";t();export{n as NaturalSelectionAlleleFrequencyControls,e as NaturalSelectionAlleleFrequencyVisualization};

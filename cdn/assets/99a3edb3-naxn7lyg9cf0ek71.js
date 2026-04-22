@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Waypoints`,[[`circle`,{cx:`12`,cy:`4.5`,r:`2.5`,key:`r5ysbb`}],[`path`,{d:`m10.2 6.3-3.9 3.9`,key:`1nzqf6`}],[`circle`,{cx:`4.5`,cy:`12`,r:`2.5`,key:`jydg6v`}],[`path`,{d:`M7 12h10`,key:`b7w52i`}],[`circle`,{cx:`19.5`,cy:`12`,r:`2.5`,key:`1piiel`}],[`path`,{d:`m13.8 17.7 3.9-3.9`,key:`1wyg1y`}],[`circle`,{cx:`12`,cy:`19.5`,r:`2.5`,key:`13o1pw`}]])}));export{i as n,r as t};
+//# sourceMappingURL=99a3edb3-naxn7lyg9cf0ek71.js.map

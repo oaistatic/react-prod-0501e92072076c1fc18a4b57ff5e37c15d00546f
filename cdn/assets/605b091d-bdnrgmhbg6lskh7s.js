@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r,i,a,o,s,c=e((()=>{t=`webp`,n=2892,r=`srgb`,i=`uchar`,a={width:2892,height:450},o=`/cdn/assets/logo-garden-ciabvfcl.webp`,s={format:t,width:n,height:450,space:r,channels:4,depth:i,density:144,isProgressive:!1,isPalette:!1,bitsPerSample:8,hasProfile:!0,hasAlpha:!0,autoOrient:a,src:o}}));export{s as n,c as t};
+//# sourceMappingURL=605b091d-bdnrgmhbg6lskh7s.js.map

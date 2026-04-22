@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{DJ as t,NJ as n,_ot as r,ast as i,ist as a,lot as o}from"./4813494d-7wk99m1ly4swd636.js";function s({isRestricted:e,bootstrapLightAccount:t,currentAccount:n,isFinservRolloutEnabled:r}){return!!(e&&(t?.isFinservEnabledWorkspace||n?.isFinservEnabledWorkspace||r))}function c(){return s({isRestricted:!1,bootstrapLightAccount:a()?.account,currentAccount:t(),isFinservRolloutEnabled:o(`4067531359`)})}var l=e((()=>{n(),i(),r()}));export{l as n,c as t};
+//# sourceMappingURL=5a1edf4f-d8a7t8uaiddhmso3.js.map

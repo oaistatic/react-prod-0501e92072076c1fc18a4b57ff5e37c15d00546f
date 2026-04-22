@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r,i,a=e((()=>{t=`The assistant is not ready to receive prompts`,n=()=>{"use no forget";let e=null;return{registerPlutoPromptSender:t=>(e=t,()=>{e===t&&(e=null)}),sendPlutoPrompt:async n=>{let r=e;if(r==null)throw Error(t);await r(n)}}},{registerPlutoPromptSender:r,sendPlutoPrompt:i}=n()}));export{r as n,i as r,a as t};
+//# sourceMappingURL=f24939f4-mg0ks0fa25t7grdd.js.map

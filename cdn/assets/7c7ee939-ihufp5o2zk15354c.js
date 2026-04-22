@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`AlignStartVertical`,[[`rect`,{width:`9`,height:`6`,x:`6`,y:`14`,rx:`2`,key:`lpm2y7`}],[`rect`,{width:`16`,height:`6`,x:`6`,y:`4`,rx:`2`,key:`rdj6ps`}],[`path`,{d:`M2 2v20`,key:`1ivd8o`}]])}));export{i as n,r as t};
+//# sourceMappingURL=7c7ee939-ihufp5o2zk15354c.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`P(A|B) = \\frac{P(B|A)P(A)}{P(B)}`,`P(C|X)=\\frac{P(X|C)P(C)}{P(X)}`,`P(B_2|W)=\\frac{P(W|B_2)P(B_2)}{P(W)}`]}))();export{t as default};
+//# sourceMappingURL=de9f4234-gy7mitpnymbujmbd.js.map

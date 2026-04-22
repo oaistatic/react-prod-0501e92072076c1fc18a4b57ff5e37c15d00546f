@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`StickyNote`,[[`path`,{d:`M16 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V8Z`,key:`qazsjp`}],[`path`,{d:`M15 3v4a2 2 0 0 0 2 2h4`,key:`40519r`}]])}));export{i as n,r as t};
+//# sourceMappingURL=912269f1-gh3w171d0yz72p0x.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}`,`P_1 V_1 / T_1 = P_2 V_2 / T_2`]}))();export{t as default};
+//# sourceMappingURL=3eeadcff-o4iuh7ysw7ng25mf.js.map

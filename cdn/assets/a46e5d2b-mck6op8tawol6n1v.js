@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Tv`,[[`rect`,{width:`20`,height:`15`,x:`2`,y:`7`,rx:`2`,ry:`2`,key:`10ag99`}],[`polyline`,{points:`17 2 12 7 7 2`,key:`11pgbg`}]])}));export{i as n,r as t};
+//# sourceMappingURL=a46e5d2b-mck6op8tawol6n1v.js.map

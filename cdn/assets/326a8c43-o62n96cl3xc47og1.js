@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t,n,r;e((()=>{t=[`ideal gas law`,`pvnrt`,`pv=nrt`,`p=nrt/v`,`v=nrt/p`,`n=pv/rt`,`t=pv/nr`,`r=pv/nt`],n=[],r={positive:t,negative:n}}))();export{r as default,n as negative,t as positive};
+//# sourceMappingURL=326a8c43-o62n96cl3xc47og1.js.map

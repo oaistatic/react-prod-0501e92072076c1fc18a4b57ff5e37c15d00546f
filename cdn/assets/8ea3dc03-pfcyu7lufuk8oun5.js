@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`AlignVerticalJustifyStart`,[[`rect`,{width:`14`,height:`6`,x:`5`,y:`16`,rx:`2`,key:`1i8z2d`}],[`rect`,{width:`10`,height:`6`,x:`7`,y:`6`,rx:`2`,key:`13squh`}],[`path`,{d:`M2 2h20`,key:`1ennik`}]])}));export{i as n,r as t};
+//# sourceMappingURL=8ea3dc03-pfcyu7lufuk8oun5.js.map

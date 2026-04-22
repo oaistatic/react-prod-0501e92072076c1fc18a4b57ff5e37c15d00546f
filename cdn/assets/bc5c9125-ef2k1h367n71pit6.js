@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CircleOff`,[[`path`,{d:`m2 2 20 20`,key:`1ooewy`}],[`path`,{d:`M8.35 2.69A10 10 0 0 1 21.3 15.65`,key:`1pfsoa`}],[`path`,{d:`M19.08 19.08A10 10 0 1 1 4.92 4.92`,key:`1ablyi`}]])}));export{i as n,r as t};
+//# sourceMappingURL=bc5c9125-ef2k1h367n71pit6.js.map

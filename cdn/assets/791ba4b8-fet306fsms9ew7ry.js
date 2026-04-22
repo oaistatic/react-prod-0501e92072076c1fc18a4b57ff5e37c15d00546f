@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`RotateCcwSquare`,[[`path`,{d:`M20 9V7a2 2 0 0 0-2-2h-6`,key:`19z8uc`}],[`path`,{d:`m15 2-3 3 3 3`,key:`177bxs`}],[`path`,{d:`M20 13v5a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h2`,key:`d36hnl`}]])}));export{i as n,r as t};
+//# sourceMappingURL=791ba4b8-fet306fsms9ew7ry.js.map

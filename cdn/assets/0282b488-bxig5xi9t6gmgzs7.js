@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{et as t}from"./2340486e-epv5pa20wdn92ya5.js";import{n,t as r}from"./6a4af97d-jk21cikjxdkbp038.js";var i,a;e((()=>{n(),i=t(),a=e=>(0,i.jsx)(r,{...e,variant:{trigFunction:`cos`,emphasizedLeg:`x`,componentLabel:`x`}})}))();export{a as TrigComponentXVisualization};
+//# sourceMappingURL=0282b488-bxig5xi9t6gmgzs7.js.map

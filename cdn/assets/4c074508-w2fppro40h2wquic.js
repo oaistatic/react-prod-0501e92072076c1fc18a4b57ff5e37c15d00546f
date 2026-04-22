@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`CaseUpper`,[[`path`,{d:`m3 15 4-8 4 8`,key:`1vwr6u`}],[`path`,{d:`M4 13h6`,key:`1r9ots`}],[`path`,{d:`M15 11h4.5a2 2 0 0 1 0 4H15V7h4a2 2 0 0 1 0 4`,key:`1sqfas`}]])}));export{i as n,r as t};
+//# sourceMappingURL=4c074508-w2fppro40h2wquic.js.map

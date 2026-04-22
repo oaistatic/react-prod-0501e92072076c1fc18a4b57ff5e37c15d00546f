@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`GlassWater`,[[`path`,{d:`M5.116 4.104A1 1 0 0 1 6.11 3h11.78a1 1 0 0 1 .994 1.105L17.19 20.21A2 2 0 0 1 15.2 22H8.8a2 2 0 0 1-2-1.79z`,key:`p55z4y`}],[`path`,{d:`M6 12a5 5 0 0 1 6 0 5 5 0 0 0 6 0`,key:`mjntcy`}]])}));export{i as n,r as t};
+//# sourceMappingURL=de9bc18b-g3agj0dnjua4al9q.js.map

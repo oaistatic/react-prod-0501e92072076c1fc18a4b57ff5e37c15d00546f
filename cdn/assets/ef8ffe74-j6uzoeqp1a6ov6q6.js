@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`F = -k x`,`-kx=f`,`f=kx`,`kx=f`,`f=kx+fi`,`kx+fi=f`,`k=-f/x`]}))();export{t as default};
+//# sourceMappingURL=ef8ffe74-j6uzoeqp1a6ov6q6.js.map

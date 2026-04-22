@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`osmosis`,`water movement across a semipermeable membrane`,`solute concentration gradient across membrane`,`hypertonic and hypotonic solutions`,`membrane transport osmosis`]}))();export{t as default};
+//# sourceMappingURL=7bb70f43-dg70dtm6i98mbj0a.js.map

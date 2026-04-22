@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Pocket`,[[`path`,{d:`M4 3h16a2 2 0 0 1 2 2v6a10 10 0 0 1-10 10A10 10 0 0 1 2 11V5a2 2 0 0 1 2-2z`,key:`1mz881`}],[`polyline`,{points:`8 10 12 14 16 10`,key:`w4mbv5`}]])}));export{i as n,r as t};
+//# sourceMappingURL=62f5d588-jsr4c3piijwqxllv.js.map

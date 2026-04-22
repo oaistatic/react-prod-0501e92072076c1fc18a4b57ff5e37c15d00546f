@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\int u\\,dv = uv - \\int v\\,du`,`uv - \\int v\\,du = \\int u\\,dv`]}))();export{t as default};
+//# sourceMappingURL=5bd659d6-jveczujadf7u2m72.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{_c as t,gc as n,vc as r,yc as i}from"./1a7ebd5f-epb8sg6kzenggoha.js";async function a({intl:e,imageUrls:t}){let i=t.filter(Boolean);for(let[t,a]of i.entries())await r({url:a,fileName:n(e,i.length>1?t+1:void 0)})}var o=e((()=>{i(),t()}));export{o as n,a as t};
+//# sourceMappingURL=2cba7643-gnl6ovhilh3ei6fj.js.map

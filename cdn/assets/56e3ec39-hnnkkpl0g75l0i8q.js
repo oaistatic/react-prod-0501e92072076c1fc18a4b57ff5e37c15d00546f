@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`BookmarkCheck`,[[`path`,{d:`m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2Z`,key:`169p4p`}],[`path`,{d:`m9 10 2 2 4-4`,key:`1gnqz4`}]])}));export{i as n,r as t};
+//# sourceMappingURL=56e3ec39-hnnkkpl0g75l0i8q.js.map

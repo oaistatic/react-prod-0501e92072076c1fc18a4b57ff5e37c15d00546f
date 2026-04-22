@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SquareDashedBottom`,[[`path`,{d:`M5 21a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2`,key:`as5y1o`}],[`path`,{d:`M9 21h1`,key:`15o7lz`}],[`path`,{d:`M14 21h1`,key:`v9vybs`}]])}));export{i as n,r as t};
+//# sourceMappingURL=902384b8-jv0jr3gyljrp2rlm.js.map

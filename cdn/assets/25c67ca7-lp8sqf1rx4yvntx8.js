@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`m = \\frac{y_2 - y_1}{x_2 - x_1}`,`m = \\frac{y_{2} - y_{1}}{x_{2} - x_{1}}`,`m = (y_2 - y_1)/(x_2 - x_1)`,`y - 3 = \\frac{7}{3}(x - 1)`]}))();export{t as default};
+//# sourceMappingURL=25c67ca7-lp8sqf1rx4yvntx8.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\tan x = \\frac{\\sin x}{\\cos x}`,`\\tan(\\theta)=\\frac{\\sin(\\theta)}{\\cos(\\theta)}`,`\\tan(\\theta)=\\frac{opposite}{adjacent}`]}))();export{t as default};
+//# sourceMappingURL=c97aedf8-ls8p1q9ug6x1xx62.js.map

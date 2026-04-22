@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`photosynthesis`,`photosynthesis inputs and outputs`,`show photosynthesis with light and carbon dioxide`,`why does low light slow photosynthesis`,`chlorophyll and photosynthesis rate`]}))();export{t as default};
+//# sourceMappingURL=37ad42b6-idnx0kg50tlqnw5k.js.map

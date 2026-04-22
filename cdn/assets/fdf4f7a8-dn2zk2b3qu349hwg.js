@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\frac{1}{R_T} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}`,`\\frac{1}{R_T} = \\frac{1}{R_1} + \\frac{1}{R_2}`,`\\frac{1}{R_{\\text{eq}}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3}`]}))();export{t as default};
+//# sourceMappingURL=fdf4f7a8-dn2zk2b3qu349hwg.js.map

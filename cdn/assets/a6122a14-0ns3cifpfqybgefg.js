@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{A9 as t,j9 as n}from"./1a7ebd5f-epb8sg6kzenggoha.js";function r(e){let t=this;t.compiler=r;function r(r){return n(r,{...t.data(`settings`),...e,extensions:t.data(`toMarkdownExtensions`)||[]})}}var i=e((()=>{t()})),a=e((()=>{i()}));export{r as n,a as t};
+//# sourceMappingURL=a6122a14-0ns3cifpfqybgefg.js.map

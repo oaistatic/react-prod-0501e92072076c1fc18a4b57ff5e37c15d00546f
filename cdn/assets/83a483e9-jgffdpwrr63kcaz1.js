@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\sin\\theta_c = \\frac{n_2}{n_1}`,`\\theta_c = \\sin^{-1}\\left(\\frac{n_2}{n_1}\\right)`]}))();export{t as default};
+//# sourceMappingURL=83a483e9-jgffdpwrr63kcaz1.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`AlignVerticalSpaceBetween`,[[`rect`,{width:`14`,height:`6`,x:`5`,y:`15`,rx:`2`,key:`1w91an`}],[`rect`,{width:`10`,height:`6`,x:`7`,y:`3`,rx:`2`,key:`17wqzy`}],[`path`,{d:`M2 21h20`,key:`1nyx9w`}],[`path`,{d:`M2 3h20`,key:`91anmk`}]])}));export{i as n,r as t};
+//# sourceMappingURL=07fb2dbf-pc0j3l68zsik6diw.js.map

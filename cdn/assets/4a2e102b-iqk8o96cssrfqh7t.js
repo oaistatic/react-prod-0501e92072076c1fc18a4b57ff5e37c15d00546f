@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`TextQuote`,[[`path`,{d:`M17 6H3`,key:`16j9eg`}],[`path`,{d:`M21 12H8`,key:`scolzb`}],[`path`,{d:`M21 18H8`,key:`1wfozv`}],[`path`,{d:`M3 12v6`,key:`fv4c87`}]])}));export{i as n,r as t};
+//# sourceMappingURL=4a2e102b-iqk8o96cssrfqh7t.js.map

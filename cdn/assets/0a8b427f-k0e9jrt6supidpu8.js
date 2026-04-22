@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`TabletSmartphone`,[[`rect`,{width:`10`,height:`14`,x:`3`,y:`8`,rx:`2`,key:`1vrsiq`}],[`path`,{d:`M5 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2h-2.4`,key:`1j4zmg`}],[`path`,{d:`M8 18h.01`,key:`lrp35t`}]])}));export{i as n,r as t};
+//# sourceMappingURL=0a8b427f-k0e9jrt6supidpu8.js.map

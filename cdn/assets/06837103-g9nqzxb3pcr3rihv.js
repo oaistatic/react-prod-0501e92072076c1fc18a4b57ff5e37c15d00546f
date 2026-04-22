@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`C(n,r)=\\frac{n!}{r!(n-r)!}`,`nC_r = \\frac{n!}{r!(n-r)!}`,`C(n,r) = \\frac{n!}{r!(n-r)!}`]}))();export{t as default};
+//# sourceMappingURL=06837103-g9nqzxb3pcr3rihv.js.map

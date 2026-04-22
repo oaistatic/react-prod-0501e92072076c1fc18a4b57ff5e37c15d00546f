@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`TreeDeciduous`,[[`path`,{d:`M8 19a4 4 0 0 1-2.24-7.32A3.5 3.5 0 0 1 9 6.03V6a3 3 0 1 1 6 0v.04a3.5 3.5 0 0 1 3.24 5.65A4 4 0 0 1 16 19Z`,key:`oadzkq`}],[`path`,{d:`M12 19v3`,key:`npa21l`}]])}));export{i as n,r as t};
+//# sourceMappingURL=41ebf359-oklq7dbyex4qrlpz.js.map

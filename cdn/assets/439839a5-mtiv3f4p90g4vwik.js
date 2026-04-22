@@ -1,0 +1,1 @@
+import{Dot as e,Eot as t,wot as n}from"./4813494d-7wk99m1ly4swd636.js";t();export{n as Namespace,e as statsc};

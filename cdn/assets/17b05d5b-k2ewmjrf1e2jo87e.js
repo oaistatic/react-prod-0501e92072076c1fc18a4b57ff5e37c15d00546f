@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SwatchBook`,[[`path`,{d:`M11 17a4 4 0 0 1-8 0V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2Z`,key:`1ldrpk`}],[`path`,{d:`M16.7 13H19a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2H7`,key:`11i5po`}],[`path`,{d:`M 7 17h.01`,key:`1euzgo`}],[`path`,{d:`m11 8 2.3-2.3a2.4 2.4 0 0 1 3.404.004L18.6 7.6a2.4 2.4 0 0 1 .026 3.434L9.9 19.8`,key:`o2gii7`}]])}));export{i as n,r as t};
+//# sourceMappingURL=17b05d5b-k2ewmjrf1e2jo87e.js.map

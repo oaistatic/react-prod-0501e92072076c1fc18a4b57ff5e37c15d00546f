@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{U9 as t,W9 as n}from"./4813494d-7wk99m1ly4swd636.js";function r({action:e,hasExistingReferencePhoto:n,surface:r}){t.logEventWithStatsig(i,i,{action:e,surface:r,...n==null?{}:{has_existing_reference_photo:n}})}var i,a=e((()=>{n(),i=`chatgpt_imagegen_likeness_action`}));export{r as n,a as t};
+//# sourceMappingURL=65f98121-d9hj6bdoolhx3wzv.js.map

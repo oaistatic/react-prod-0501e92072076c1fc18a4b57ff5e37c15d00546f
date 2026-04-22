@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`Estimate \\int_{-5}^{5} x^2 \\, dx using a midpoint Riemann sum with n = 8`,`Estimate \\int_{-5}^{5} x^2 \\, dx using a left Riemann sum with n = 6`,`Estimate \\int_{-5}^{5} x^2 \\, dx using the trapezoidal rule with n = 8`,`Estimate \\int_{-5}^{5} x^3 \\, dx using Simpson's rule with n = 10`]}))();export{t as default};
+//# sourceMappingURL=a54d9268-eb5c9ugqaym91idq.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`f = \\frac{1}{T}`,`T = \\frac{1}{f}`,`f=1/t`,`t=1/f`,`1/t=f`,`1/f=t`,`t=2pi/omega`,`2pi/omega=t`,`tau=60/nz`,`60/nz=tau`]}))();export{t as default};
+//# sourceMappingURL=2ada3489-nyb5lfwwy9tvz2pa.js.map

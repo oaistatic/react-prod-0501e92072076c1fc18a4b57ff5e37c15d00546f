@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Sailboat`,[[`path`,{d:`M22 18H2a4 4 0 0 0 4 4h12a4 4 0 0 0 4-4Z`,key:`1404fh`}],[`path`,{d:`M21 14 10 2 3 14h18Z`,key:`1nzg7v`}],[`path`,{d:`M10 2v16`,key:`1labyt`}]])}));export{i as n,r as t};
+//# sourceMappingURL=72bec4bd-moyztihfb4he3eib.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`solar system`,`inner planets vs outer planets`,`order of the planets`,`what is the largest planet`,`saturn rings`,`orbiting the sun`,`distance from the sun for each planet`,`tell me about mars`]}))();export{t as default};
+//# sourceMappingURL=3489d196-b1dj2vjwullfti2n.js.map

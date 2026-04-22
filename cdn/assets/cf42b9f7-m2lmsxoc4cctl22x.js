@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Highlighter`,[[`path`,{d:`m9 11-6 6v3h9l3-3`,key:`1a3l36`}],[`path`,{d:`m22 12-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4`,key:`14a9rk`}]])}));export{i as n,r as t};
+//# sourceMappingURL=cf42b9f7-m2lmsxoc4cctl22x.js.map

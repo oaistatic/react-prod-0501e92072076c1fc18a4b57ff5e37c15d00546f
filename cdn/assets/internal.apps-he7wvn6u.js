@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,r as n,t as r}from"./7943ab25-9nosqsp2iv7nrq33.js";await e((async()=>{await r()}))();export{t as default,n as shouldRevalidate};
+//# sourceMappingURL=internal.apps-he7wvn6u.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\varepsilon = -\\frac{d\\Phi}{dt}`,`\\epsilon = -N\\frac{d\\Phi_B}{dt}`,`\\boxed{\\varepsilon = -\\frac{d\\Phi}{dt}}`]}))();export{t as default};
+//# sourceMappingURL=27958800-d9cn5a9jcsckop69.js.map

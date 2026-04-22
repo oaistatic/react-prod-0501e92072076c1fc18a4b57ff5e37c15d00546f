@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`v = u + at`,`v = v_0 + at`,`v_t = u + at`,`u + at = v`,`v_f = v_i + at`,`v = u + at.`]}))();export{t as default};
+//# sourceMappingURL=a6c255d2-oihyzm0euuz2phkl.js.map

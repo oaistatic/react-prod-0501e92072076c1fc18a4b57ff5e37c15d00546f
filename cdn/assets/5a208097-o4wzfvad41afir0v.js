@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ArrowsUpFromLine`,[[`path`,{d:`m4 6 3-3 3 3`,key:`9aidw8`}],[`path`,{d:`M7 17V3`,key:`19qxw1`}],[`path`,{d:`m14 6 3-3 3 3`,key:`6iy689`}],[`path`,{d:`M17 17V3`,key:`o0fmgi`}],[`path`,{d:`M4 21h16`,key:`1h09gz`}]])}));export{i as n,r as t};
+//# sourceMappingURL=5a208097-o4wzfvad41afir0v.js.map

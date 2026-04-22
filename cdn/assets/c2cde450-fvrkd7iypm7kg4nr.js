@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ChartNoAxesColumnIncreasing`,[[`line`,{x1:`12`,x2:`12`,y1:`20`,y2:`10`,key:`1vz5eb`}],[`line`,{x1:`18`,x2:`18`,y1:`20`,y2:`4`,key:`cun8e5`}],[`line`,{x1:`6`,x2:`6`,y1:`20`,y2:`16`,key:`hq0ia6`}]])}));export{i as n,r as t};
+//# sourceMappingURL=c2cde450-fvrkd7iypm7kg4nr.js.map

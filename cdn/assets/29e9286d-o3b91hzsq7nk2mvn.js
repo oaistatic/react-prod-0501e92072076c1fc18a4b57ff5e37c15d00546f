@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`Estimate \\int_{0}^{5} x \\, dx using a midpoint Riemann sum with n = 8`,`Estimate \\int_{0}^{5} x^2 \\, dx using a right Riemann sum with n = 10`,`Estimate \\int_{0}^{5} \\sqrt{x} \\, dx using a left Riemann sum with n = 6`,`Estimate \\int_{0}^{5} x \\, dx using a left Riemann sum with n = 6`]}))();export{t as default};
+//# sourceMappingURL=29e9286d-o3b91hzsq7nk2mvn.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`ChartNoAxesColumn`,[[`line`,{x1:`18`,x2:`18`,y1:`20`,y2:`10`,key:`1xfpm4`}],[`line`,{x1:`12`,x2:`12`,y1:`20`,y2:`4`,key:`be30l9`}],[`line`,{x1:`6`,x2:`6`,y1:`20`,y2:`14`,key:`1r4le6`}]])}));export{i as n,r as t};
+//# sourceMappingURL=137f421d-mheg3aslq4pwjoxd.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Airplay`,[[`path`,{d:`M5 17H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-1`,key:`ns4c3b`}],[`path`,{d:`m12 15 5 6H7Z`,key:`14qnn2`}]])}));export{i as n,r as t};
+//# sourceMappingURL=189eb0e5-exwplj7eaat0k8hc.js.map

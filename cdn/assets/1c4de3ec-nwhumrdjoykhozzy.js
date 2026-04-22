@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{vl as t,yl as n}from"./4813494d-7wk99m1ly4swd636.js";import{n as r,r as i}from"./ac827dee-myryylbcyrup3wfj.js";var a,o=e((()=>{t(),i(),a=(e={})=>{let t=new Set(e.preserve??[]);return e=>{n(e,`textDirective`,(e,n,i)=>{if(!r.includes(e.name)||t.has(e.name)||!i||typeof n!=`number`)return;let a=i.children[n-1];a&&a.type===`text`&&a.value.endsWith(` `)&&(a.value=a.value.slice(0,-1)),i.children.splice(n,1)})}}}));export{a as n,o as t};
+//# sourceMappingURL=1c4de3ec-nwhumrdjoykhozzy.js.map

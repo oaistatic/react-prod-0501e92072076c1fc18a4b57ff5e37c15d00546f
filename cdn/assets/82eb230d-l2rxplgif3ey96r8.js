@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`FileDiff`,[[`path`,{d:`M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z`,key:`1rqfz7`}],[`path`,{d:`M9 10h6`,key:`9gxzsh`}],[`path`,{d:`M12 13V7`,key:`h0r20n`}],[`path`,{d:`M9 17h6`,key:`r8uit2`}]])}));export{i as n,r as t};
+//# sourceMappingURL=82eb230d-l2rxplgif3ey96r8.js.map

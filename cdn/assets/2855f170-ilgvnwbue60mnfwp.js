@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`R_{\\text{total}} = R_1 + R_2 + \\dots`,`R_{\\text{eq}} = R_1 + R_2 + R_3`]}))();export{t as default};
+//# sourceMappingURL=2855f170-ilgvnwbue60mnfwp.js.map

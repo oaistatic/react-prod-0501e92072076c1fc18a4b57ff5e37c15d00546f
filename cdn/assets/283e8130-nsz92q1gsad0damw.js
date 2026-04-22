@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`RectangleEllipsis`,[[`rect`,{width:`20`,height:`12`,x:`2`,y:`6`,rx:`2`,key:`9lu3g6`}],[`path`,{d:`M12 12h.01`,key:`1mp3jc`}],[`path`,{d:`M17 12h.01`,key:`1m0b6t`}],[`path`,{d:`M7 12h.01`,key:`eqddd0`}]])}));export{i as n,r as t};
+//# sourceMappingURL=283e8130-nsz92q1gsad0damw.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`InspectionPanel`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M7 7h.01`,key:`7u93v4`}],[`path`,{d:`M17 7h.01`,key:`14a9sn`}],[`path`,{d:`M7 17h.01`,key:`19xn7k`}],[`path`,{d:`M17 17h.01`,key:`1sd3ek`}]])}));export{i as n,r as t};
+//# sourceMappingURL=36b886a6-h41c2hnuhr5ufwzq.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{O as t,y as n}from"./2340486e-epv5pa20wdn92ya5.js";import{p8 as r,u8 as i}from"./4813494d-7wk99m1ly4swd636.js";function a(e){return e?.seat_type_counts?.default??0}function o(e){"use no forget";return t({queryKey:[`workspace-seat-type-counts`,e],queryFn:async()=>await i.safeGet(`/accounts/{account_id}/users/seat_type_counts`,{parameters:{path:{account_id:e??``}}}),enabled:e!=null})}var s=e((()=>{r(),n()}));export{s as n,o as r,a as t};
+//# sourceMappingURL=d32f4860-dgqf8nz4fl7hs614.js.map

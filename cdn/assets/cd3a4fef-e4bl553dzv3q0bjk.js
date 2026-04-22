@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`TrendingUpDown`,[[`path`,{d:`M14.828 14.828 21 21`,key:`ar5fw7`}],[`path`,{d:`M21 16v5h-5`,key:`1ck2sf`}],[`path`,{d:`m21 3-9 9-4-4-6 6`,key:`1h02xo`}],[`path`,{d:`M21 8V3h-5`,key:`1qoq8a`}]])}));export{i as n,r as t};
+//# sourceMappingURL=cd3a4fef-e4bl553dzv3q0bjk.js.map

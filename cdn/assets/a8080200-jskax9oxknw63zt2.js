@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`V = \\frac{1}{3} \\pi r^2 h`,`V = \\frac{1}{3} \\pi h r^2`,`V = \\pi r^2 h / 3`,`V = \\pi h r^2 / 3`,`\\frac{1}{3} \\pi r^2 h = V`,`\\frac{1}{3} \\pi h r^2 = V`,`\\pi r^2 h / 3 = V`,`\\pi h r^2 / 3 = V`]}))();export{t as default};
+//# sourceMappingURL=a8080200-jskax9oxknw63zt2.js.map

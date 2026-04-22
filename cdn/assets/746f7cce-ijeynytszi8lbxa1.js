@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`KE = \\frac{1}{2}mv^2`,`K = \\frac{1}{2}mv^2`,`KE = mv^2/2`,`K = mv^2/2`,`\\frac{1}{2}mv^2 = KE`,`mv^2/2 = KE`]}))();export{t as default};
+//# sourceMappingURL=746f7cce-ijeynytszi8lbxa1.js.map

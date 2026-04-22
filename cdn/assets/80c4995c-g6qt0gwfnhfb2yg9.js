@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Tablets`,[[`circle`,{cx:`7`,cy:`7`,r:`5`,key:`x29byf`}],[`circle`,{cx:`17`,cy:`17`,r:`5`,key:`1op1d2`}],[`path`,{d:`M12 17h10`,key:`ls21zv`}],[`path`,{d:`m3.46 10.54 7.08-7.08`,key:`1rehiu`}]])}));export{i as n,r as t};
+//# sourceMappingURL=80c4995c-g6qt0gwfnhfb2yg9.js.map

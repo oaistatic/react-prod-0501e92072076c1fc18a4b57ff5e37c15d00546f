@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Vote`,[[`path`,{d:`m9 12 2 2 4-4`,key:`dzmm74`}],[`path`,{d:`M5 7c0-1.1.9-2 2-2h10a2 2 0 0 1 2 2v12H5V7Z`,key:`1ezoue`}],[`path`,{d:`M22 19H2`,key:`nuriw5`}]])}));export{i as n,r as t};
+//# sourceMappingURL=ab274474-fp59cqfm7rmsyxlk.js.map

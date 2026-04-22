@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`Caravan`,[[`path`,{d:`M18 19V9a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v8a2 2 0 0 0 2 2h2`,key:`19jm3t`}],[`path`,{d:`M2 9h3a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H2`,key:`13hakp`}],[`path`,{d:`M22 17v1a1 1 0 0 1-1 1H10v-9a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v9`,key:`1crci8`}],[`circle`,{cx:`8`,cy:`19`,r:`2`,key:`t8fc5s`}]])}));export{i as n,r as t};
+//# sourceMappingURL=f7d0a328-hz6350p3t9avxjf5.js.map

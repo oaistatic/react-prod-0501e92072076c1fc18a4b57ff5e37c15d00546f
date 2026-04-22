@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i}`,`\\frac{1}{f} = \\frac{1}{a} + \\frac{1}{b}`,`1/f=1/do+1/di`,`1/f=1/di+1/do`,`1/f=1/a+1/b`,`1/f=1/b+1/a`,`1/do+1/di=1/f`,`1/di+1/do=1/f`,`1/a+1/b=1/f`,`1/b+1/a=1/f`]}))();export{t as default};
+//# sourceMappingURL=2222effa-joo97w6jxumh5w1e.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`SquarePilcrow`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M12 12H9.5a2.5 2.5 0 0 1 0-5H17`,key:`1l9586`}],[`path`,{d:`M12 7v10`,key:`jspqdw`}],[`path`,{d:`M16 7v10`,key:`lavkr4`}]])}));export{i as n,r as t};
+//# sourceMappingURL=8e7676d5-k1aogotw2v5j8ff8.js.map

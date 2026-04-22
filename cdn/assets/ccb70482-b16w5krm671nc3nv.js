@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`a^2 + b^2 = c^2`,`c^2 = a^2 + b^2`,`c = \\sqrt{a^2 + b^2}`,`c = \\sqrt{(a^2 + b^2)}`]}))();export{t as default};
+//# sourceMappingURL=ccb70482-b16w5krm671nc3nv.js.map

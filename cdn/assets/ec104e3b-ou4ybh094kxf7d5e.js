@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`Estimate \\int_{0}^{5} x \\, dx using the trapezoidal rule with n = 8`,`Estimate \\int_{0}^{5} x^2 \\, dx using the trapezoidal rule with n = 8`,`Estimate \\int_{0}^{5} \\sqrt{x} \\, dx using the trapezoidal rule with n = 8`,`Approximate \\int_{0}^{5} x^2 \\, dx with the trapezoidal rule using 6 subintervals`]}))();export{t as default};
+//# sourceMappingURL=ec104e3b-ou4ybh094kxf7d5e.js.map

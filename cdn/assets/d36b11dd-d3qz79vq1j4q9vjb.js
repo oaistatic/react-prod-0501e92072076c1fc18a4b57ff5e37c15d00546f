@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\vec E_{\\mathrm{net}} = \\vec E_1 + \\vec E_2`,`E_{\\mathrm{net}} = \\sum_i E_i`,`\\vec E = k\\left(\\frac{q_1}{r_1^2} + \\frac{q_2}{r_2^2}\\right)`]}))();export{t as default};
+//# sourceMappingURL=d36b11dd-d3qz79vq1j4q9vjb.js.map

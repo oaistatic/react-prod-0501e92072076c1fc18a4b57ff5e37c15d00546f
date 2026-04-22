@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";var t;e((()=>{t=[`\\text{Allele A over generations}`,`allele frequency change under selection`,`beneficial allele becomes more common`,`starting allele percentage and selection advantage`,`how does natural selection change allele frequencies`,`allele A advantage over generations`]}))();export{t as default};
+//# sourceMappingURL=f2a7d712-k193ot36d3079cgz.js.map

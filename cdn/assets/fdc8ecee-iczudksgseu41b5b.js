@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`BookmarkPlus`,[[`path`,{d:`m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z`,key:`1fy3hk`}],[`line`,{x1:`12`,x2:`12`,y1:`7`,y2:`13`,key:`1cppfj`}],[`line`,{x1:`15`,x2:`9`,y1:`10`,y2:`10`,key:`1gty7f`}]])}));export{i as n,r as t};
+//# sourceMappingURL=fdc8ecee-iczudksgseu41b5b.js.map

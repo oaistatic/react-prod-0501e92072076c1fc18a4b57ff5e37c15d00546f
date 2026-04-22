@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-gjb4o5hex8ccu4v5.js";import{n as t,t as n}from"./f0a0a9e6-lzeh7yf7k4r3emak.js";var r,i=e((()=>{t(),r=n(`MessageCircleReply`,[[`path`,{d:`M7.9 20A9 9 0 1 0 4 16.1L2 22Z`,key:`vv11sd`}],[`path`,{d:`m10 15-3-3 3-3`,key:`1pgupc`}],[`path`,{d:`M7 12h7a2 2 0 0 1 2 2v1`,key:`1gheu4`}]])}));export{i as n,r as t};
+//# sourceMappingURL=6bd7de28-b9j811jgtuk2p9q1.js.map
