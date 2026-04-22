@@ -1,0 +1,1 @@
+import{a as e,i as t,r as n}from"./2340486e-epv5pa20wdn92ya5.js";e();export{n as DEFAULT_RUM_PROFILER_CONFIGURATION,t as createRumProfiler};
